@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PATHFIT2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.PATHFIT2" parent="Base.Theme.PATHFIT2" />
+<!--    <style name="Button.Color" parent="ThemeOverlay.AppCompat">-->
+<!--        <item name="btnColors"></item>-->
+<!--        -->
+<!--    </style>-->
+</resources>

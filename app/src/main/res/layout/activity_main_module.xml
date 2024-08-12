@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgColorMain"
+    tools:context=".Main_module">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/manRunning"
+        android:src="@mipmap/pathfit_2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PATHFIT 2"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/txtColor"
+        android:textSize="50sp"
+        android:fontFamily="@font/agbalumo"
+        android:layout_marginTop="70dp"
+        android:id="@+id/txtPathfit"
+
+        />
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:src="@mipmap/running"
+        android:layout_marginLeft="-90dp"
+        android:layout_centerVertical="true"
+
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/jogging"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+
+        />
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/manRunning"
+        android:layout_marginTop="50dp"
+        android:id="@+id/btnLesson"
+        android:text="LESSON"
+        android:fontFamily="@font/anton"
+        android:textSize="30sp"
+        android:textColor="@color/txtColor"
+        android:gravity="left|center_vertical"
+        android:backgroundTint="@color/bgColorMainButtons"
+
+        android:drawableRight="@mipmap/lesson_icon"
+        />
+
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/btnLesson"
+        android:layout_marginTop="50dp"
+        android:id="@+id/btnExercise"
+        android:text="EXERCISE"
+        android:fontFamily="@font/anton"
+        android:textSize="30sp"
+        android:textColor="@color/txtColor"
+        android:gravity="left|center_vertical"
+        android:backgroundTint="@color/bgColorMainButtons"
+        android:drawableRight="@mipmap/exercise_icon"
+
+        />
+
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/btnExercise"
+        android:layout_marginTop="50dp"
+        android:id="@+id/btnSettings"
+        android:text="SETTINGS"
+        android:fontFamily="@font/anton"
+        android:textSize="30sp"
+        android:gravity="left|center_vertical"
+        android:textColor="@color/txtColor"
+        android:backgroundTint="@color/bgColorMainButtons"
+        android:drawableRight="@mipmap/settings_icon"
+
+        />
+
+</RelativeLayout>

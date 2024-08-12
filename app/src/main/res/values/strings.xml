@@ -1,0 +1,251 @@
+<resources>
+    <string name="app_name">PATHFIT2</string>
+    <string name="pathfit2">Pathfit 2 Fitness Exercise</string>
+    <string name="healthRelated">Health Related Components/Parameters of Physical Fitness</string>
+    <string name="principlesAndMethods">Principle And Methods of Cardio Respiratory System</string>
+    <string name="typeOfWeightTraining">Type of Weight Training Program</string>
+    <string name="muscleFibreTypes">Muscle Fiber Types</string>
+    <string name="muscoSkeletalSystem">Muscoskeletal System</string>
+    <string name="safetyConcern">Safety Concern</string>
+    <string name="stretchingFlexibility">Stretcing And Flexibility</string>
+    <string name="tabataWorkout">Tabata Workout</string>
+    <string name="theSevenMinWorkout">The Seven Minute Workout</string>
+    <string name="benefitsOfCircuitTraining">Benefits of Circuit Training</string>
+    <!--lessons-->
+    <string name="exercise">Exercise</string>
+    <string name="lesson1_topic1">
+        Cardio Vascular Endurance\n
+         It is the ability of the heart and lungs to work together to provide the needed oxygen and fuel to the body during sustained workloads.\n
+        Muscular Strength
+        It is the amount of force a muscle can produce.\n
+        Body Composition\n
+        It is the amount of fat mass compared to lean muscle mass, bone, and organs.\n
+        Muscular Endurance\n
+        It is the ability of the muscles to perform continuously without fatigue.\n
+        Flexibility\n
+        It is the ability of each joint to move through the available range of motion for a specific joint.\n
+    </string>
+
+
+    <!--Skill Related PE Fitness-->
+    <string name="lesson1_topic2">
+        Agility
+        The ability to change body positions quickly and keep the body under control when moving.\n
+        Power
+        The ability to combine strength with speed while moving.\n
+        Balance
+        The ability to keep the body in a stable position while standing and moving\n
+        Speed
+        The ability to move all or a part of the body quickly.\n
+        Coordination
+        The ability of body parts to work together when you perform an activity.\n
+        Reaction Time
+        The ability to move quickly once a signal to start moving is received.
+    </string>
+
+    <string name="lesson1_topic3">
+        Helps you immediately feel better, function better, and sleep better. It also reduces anxiety\n
+        Physical Activity contributes to preventing and managing noncommunicable diseases such as cardiovascular diseases, cancer and diabetes.\n
+        AEROBIC PHYSICAL ACTIVITY
+        Activity that is performed long enough to maintain or improve an individual’s cardiorespiratory fitness. Example: Walking, Dancing, Running , Swimming\n
+        ANAEROBIC PHYSICAL ACTIVITY
+        High-intensity activity that exceeds the capacity of the cardiovascular system to provide oxygen to muscle cells. Example: Sprinting, Power Lifting, Cycling Sprint
+
+
+    </string>
+
+
+    <string name="lesson1_obesityTopic">
+
+        Overweight and obesity are classified using the body mass index ( BMI ) . \n\n
+        BMI = weight in kg ÷ ( height )² in m\n
+        Underweight = 18.5\n
+        Normal weight = 18.5 – 24.9\n
+        Over weight = 25 – 29.9\n
+        Obesity = 30 or greater\n
+         AGE\n
+            FAMILY HISTORY\n
+            CHOLESTEROL INTAKE, AND\n
+            PHYSICAL INACTIVITY\n
+
+            Obese individuals have a shorter life expectancy and greater risks of CHD stroke, hypertension, certain cancers, abnormal menses, etc.\n
+            Restricting caloric intake and consuming more calories through physical activity and exercise are effective ways of reducing body weight and fatness.\n
+    </string>
+
+
+
+    <string name="exercisePreperation">Exercise Prescription for Cardio Respiratory Fitness</string>
+    <string name="warmUp">Warm Up</string>
+    <string name="workOut">Work Out</string>
+    <string name="coolDown">Cool Down</string>
+
+    <string name="warmUpTopic">Purpose is to \n\n
+        INCREASE HR AND BODY TEMPERATURE \n
+        
+        ELEVATE BLOOD FLOW TO THE MUSCLES \n
+        
+        CONSISTS OF 5 TO 15 MINUTES SLOW – PACED EXERCISE
+    </string>
+    <string name="workOutTopic">This component includes the \n \n
+        -MODE \n
+        -FREQUENCY\n
+        -INTENSITY\n
+        -DURATION OF EXERCISE\n
+    </string>
+
+    <string name="modeworkout">
+        Activities that use a large muscle mass in a slow, rhythmical pattern
+    </string>
+
+    <string name="frequencyworkout">
+        3 to 5 sessions per week.
+    </string>
+
+    <string name="intensityworkout">
+       can be monitored indirectly by measurement of target heart rate.
+    </string>
+
+    <string name="durationworkout">
+       it depends on the individual’s initial level of fitness and training intensity.
+    </string>
+
+    <string name="cooldownworkout">
+        Purpose is to \n
+        - Promote blood return to the heart / prevent blood pooling in arms and legs \n
+        Decrease the muscle soreness and cardiac irregularities \n
+        5 – 15 minutes of light exercise and stretching
+    </string>
+
+    <string name="trainingTechniques">
+        Training techniques can be given in the form of\n
+    - CROSS TRAINING\n
+    - LONG , SLOW DISTANCE TRAINING\n
+    - INTERVAL TRAINING\n
+    - FARTLEK TRAINING
+
+    </string>
+
+    <string name="crossTraining">
+        Is an exercise regimen that uses several modes of training.\n
+        Advantages: reduces boredom and reduce injuries\n
+        Disadvantages: lacks training specificity
+
+    </string>
+
+    <string name="longSlowDistance">
+        Is enjoyable because the intensity is not high and can go 40 – 60 minutes.\n
+
+        Advantages : risk of injury is minimal
+    </string>
+
+    <string name="intervalTraining">
+        An alternating short intense activity with longer less, intense activity
+
+        Each interval is followed by a rest period.
+    </string>
+
+    <string name="fartlekTraining">
+        Involves varying your pace throughout your run (fast segments and slow jogs).\n
+    Advantages: reduce the possibility of boredom
+
+    </string>
+    <string name="lesson2_thefivehealth_relatedcomponentsofphysicalfitness">
+        Cardiovascular Endurance
+        Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity./n
+        Muscular Strength
+        The maximum force that a muscle or set of muscles is capable of exerting./n
+        Muscular Endurance
+        The ability of your muscles to sustain exercise for a period of time./n
+        Flexibility
+        The ability to move muscles and joints through a full range of motion./n
+        Body Composition
+        Your body’s ratio of fat mass to fat-free mass like muscle and bone./n
+    </string>
+<string name="lesson2_parametersofphysicalfitness">
+    Cardiovascular Endurance
+    Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity./n
+    Muscular Strength
+    The maximum force that a muscle or set of muscles is capable of exerting./n
+    Muscular Endurance
+    The ability of your muscles to sustain exercise for a period of time./n
+    Flexibility
+    The ability to move muscles and joints through a full range of motion./n
+    Body Composition
+    Your body’s ratio of fat mass to fat-free mass like muscle and bone./n
+    Balance
+    Ability to maintain equilibrium while stationary or moving./n
+    Coordination
+    Integration of sensory and motor systems to execute smooth, accurate, and controlled movements./n
+    Agility
+    Ability to change direction quickly and efficiently./n
+    Speed
+    Rate at which an individual can perform a movement or cover a distance in a given period./n
+    Power
+    Combination of strength and speed to perform explosive movements./n
+</string>
+    <string name="lesson2_whatarethebenefitsofaddressinghealthrelatedcomponentsparametersofphysicalfitness">
+
+        •DISEASE PREVENTION./n
+
+        •IMPROVED QUALITY OF LIFE./n
+
+        •ENHANCED FUNCTIONAL CAPACITY./n
+
+    </string>
+    <string name="lesson3_training">
+    Training
+    Refers to the act, process, or method of teaching a person  or  animal  a  particular  skill,  knowledge,  or type of behavior./n
+    Specificity
+    It  is  a  fitness  principle  that  describes  how  fitness improvements   or   adaptations   resulting   from exercise stress are specific to the type of training performed./n
+    Sport-Specific Training
+    Athletes engage in training activities directly related to their sport./n
+    Interval Training
+    Interval	workouts	involve	alternating	between	high-intensity bursts and recovery periods./n
+    High-Intensity Interval Training (HIIT)
+    HIIT	sessions	involve	short,	intense	bursts	of	exercise followed by brief rest periods./n
+    Overload
+    The overload principle states that adaptation to exercise stress  occurs  when  the  workload  is  progressively increased during training./n
+    To improve cardio respiratory fitness, gradually increase exercise intensity, duration, or frequency over time.
+    Adaptation
+    refers	to	the	body’s	response	to	exercise	stress	over time./n
+    It	involves	changes	in	physiological	systems	to	better cope with the demands of physical activity.
+    Progression
+    refers	to	the	gradual	increase	in	exercise	intensity, duration, or frequency over time./n
+    It ensures that the body continues to adapt and improve as fitness levels increase.
+    </string>
+
+    <string name="lesson4_topic3">
+    Deltoids
+    Located in the shoulders, the deltoid muscles consist of three heads (anterior, lateral, and posterior) and are responsible for shoulder abduction, flexion, and extension./n
+    Pectoralis Major
+    Found in the chest, the pectoralis major muscles are responsible for shoulder flexion, adduction, and internal rotation, commonly targeted during chest exercises like bench presses and push-ups./n
+    Trapezius
+    The trapezius muscles are located in the upper back and neck and are responsible for shoulder elevation, retraction, and rotation, as well as neck extension./n
+    Latissimus Dorsi
+    Situated in the mid-back, the latissimus dorsi muscles, or lats, are responsible for shoulder adduction, extension, and internal rotation, commonly targeted during pull-up and rowing exercises./n
+    Rhomboids
+    Found between the shoulder blades, the rhomboid muscles are responsible for scapular retraction and elevation, aiding in posture and shoulder stability./n
+    Rotator Cuff Muscles
+    Comprising the supraspinatus, infraspinatus, teres minor, and subscapularis, the rotator cuff muscles are responsible for stabilizing the shoulder joint and facilitating arm rotation and abduction./n
+    Biceps Branchii
+    Located in the front of the upper arm, the biceps brachii muscles are responsible for elbow flexion and forearm supination, commonly targeted during bicep curls and chin-ups./n
+    Triceps Branchii
+    Situated in the back of the upper arm, the triceps brachii muscles are responsible for elbow extension and forearm pronation, commonly targeted during triceps dips and push-down exercises./n
+    Serratus Anterrior
+    Located on the side of the rib cage, the serratus anterior muscles are responsible for scapular protraction and stabilization, aiding in arm movement and shoulder health./n
+    Sternocleidomastoid
+    Situated in the neck, the sternocleidomastoid muscles are responsible for neck flexion, lateral flexion, and rotation, commonly targeted during exercises involving head movements and neck stabilization./n
+    Quadriceps
+    The quadriceps, or quads, are a group of four muscles on the front of the thigh. They are some of the largest and strongest muscles in the body. The quad muscles allow a person to stand, walk, run, squat, and jump./n
+    The term quadriceps is Latin for “four headed.” This is because people separate this muscle group into four distinct portions that all work together to help extend the leg. The four muscles that comprise the quadriceps includeTrusted Source.
+    Gluteal Muscles
+    THE GLUTEAL MUSCLES ARE A GROUP OF MUSCLES THAT MAKE UP THE BUTTOCK AREA; THE MUSCLE GROUP CONSISTS OF THE GLUTEUS MAXIMUS, GLUTEUS MEDIUS, AND GLUTEUS MINIMUS./n
+    Hamstring
+    A HAMSTRING IS A LENGTH OF TISSUE OR TENDON BEHIND YOUR KNEE WHICH JOINS THE MUSCLES OF YOUR THIGH TO THE BONES OF YOUR LOWER LEG./n
+    Calf
+    THE CALF REFERS TO THE MUSCULAR AREA LOCATED AT THE BACK OF THE LOWER LEG, BETWEEN THE KNEE AND THE ANKLE. IT IS PRIMARILY FORMED BY THE GASTROCNEMIUS AND SOLEUS MUSCLES, WHICH WORK TOGETHER TO ALLOW FOR PLANTAR FLEXION OF THE FOOT (POINTING THE TOES DOWNWARDS) AND ASSIST IN WALKING, RUNNING, AND JUMPING MOVEMENTS. THE CALF MUSCLES ARE AMONG THE STRONGEST IN THE BODY AND PLAY A CRUCIAL ROLE IN PROVIDING POWER AND PROPULSION DURING LOCOMOTION. THEY ALSO CONTRIBUTE TO MAINTAINING PROPER BALANCE AND STABILITY./n
+
+
+
+    </string>
+</resources>
