@@ -11,6 +11,8 @@
     <string name="tabataWorkout">Tabata Workout</string>
     <string name="theSevenMinWorkout">The Seven Minute Workout</string>
     <string name="benefitsOfCircuitTraining">Benefits of Circuit Training</string>
+
+    <string name="context">Context:</string>
     <!--lessons-->
     <string name="exercise">Exercise</string>
     <string name="lesson1_topic1">
@@ -25,36 +27,55 @@
         Flexibility\n
         It is the ability of each joint to move through the available range of motion for a specific joint.\n
     </string>
+    <string name="lesson1_cardioVascular">Cardio Vascular Endurance</string>
+    <string name="lesson1_cardioVascularTopic">
+         It is the ability of the heart and lungs to work together to provide the needed oxygen and fuel to the body during sustained workloads
+    </string>
+
+    <string name="lesson1_muscularStrength">Muscular Strength</string>
+    <string name="lesson1_muscularStrengthTopic"> It is the amount of force a muscle can produce.</string>
+
+    <string name="lesson1_bodyComposition">Body Composition</string>
+    <string name="lesson1_bodyCompositionTopic">It is the amount of fat mass compared to lean muscle mass, bone, and organs.</string>
+
+    <string name="lesson1_muscularEndurance">Muscular Endurance</string>
+    <string name="lesson1_muscularEnduranceTopic"> It is the ability of the muscles to perform continuously without fatigue.\n</string>
+
+    <string name="lesson1_Flexibility"> Flexibility</string>
+    <string name="lesson1_FlexibilityTopic">It is the ability of each joint to move through the available range of motion for a specific joint.</string>
 
 
     <!--Skill Related PE Fitness-->
-    <string name="lesson1_topic2">
-        Agility
-        The ability to change body positions quickly and keep the body under control when moving.\n
-        Power
-        The ability to combine strength with speed while moving.\n
-        Balance
-        The ability to keep the body in a stable position while standing and moving\n
-        Speed
-        The ability to move all or a part of the body quickly.\n
-        Coordination
-        The ability of body parts to work together when you perform an activity.\n
-        Reaction Time
+    <string name="lesson1_skillRelated">Skill Related PE Fitness</string>
+    <string name="lesson1_skillRelatedTopic">
+        Agility\n
+        The ability to change body positions quickly and keep the body under control when moving.\n\n
+        Power\n
+        The ability to combine strength with speed while moving.\n\n
+        Balance\n
+        The ability to keep the body in a stable position while standing and moving.\n\n
+        Speed\n
+        The ability to move all or a part of the body quickly.\n\n
+        Coordination\n
+        The ability of body parts to work together when you perform an activity.\n\n
+        Reaction Time\n
         The ability to move quickly once a signal to start moving is received.
     </string>
-
-    <string name="lesson1_topic3">
+    <string name="lesson1_benefitsOfPE">Benefits of PE exercise</string>
+    <string name="lesson1_benefitsOfPEtopic">
         Helps you immediately feel better, function better, and sleep better. It also reduces anxiety\n
         Physical Activity contributes to preventing and managing noncommunicable diseases such as cardiovascular diseases, cancer and diabetes.\n
-        AEROBIC PHYSICAL ACTIVITY
-        Activity that is performed long enough to maintain or improve an individual’s cardiorespiratory fitness. Example: Walking, Dancing, Running , Swimming\n
-        ANAEROBIC PHYSICAL ACTIVITY
-        High-intensity activity that exceeds the capacity of the cardiovascular system to provide oxygen to muscle cells. Example: Sprinting, Power Lifting, Cycling Sprint
-
-
     </string>
 
+    <string name="lesson1_typesOfPE">Types of PHYSICAL ACTIVITY</string>
+    <string name="lesson1_typesOfPETopic">
+        AEROBIC PHYSICAL ACTIVITY\n
+        Activity that is performed long enough to maintain or improve an individual’s cardiorespiratory fitness. Example: Walking, Dancing, Running , Swimming\n\n
+        ANAEROBIC PHYSICAL ACTIVITY\n
+        High-intensity activity that exceeds the capacity of the cardiovascular system to provide oxygen to muscle cells. Example: Sprinting, Power Lifting, Cycling Sprint
+    </string>
 
+    <string name="lesson1_obesity">Obesity</string>
     <string name="lesson1_obesityTopic">
 
         Overweight and obesity are classified using the body mass index ( BMI ) . \n\n
@@ -62,16 +83,12 @@
         Underweight = 18.5\n
         Normal weight = 18.5 – 24.9\n
         Over weight = 25 – 29.9\n
-        Obesity = 30 or greater\n
-         AGE\n
-            FAMILY HISTORY\n
-            CHOLESTEROL INTAKE, AND\n
-            PHYSICAL INACTIVITY\n
+        Obesity = 30 or greater\n\n
+         AGE,FAMILY HISTORY,CHOLESTEROL INTAKE AND PHYSICAL INACTIVITY\n\n
 
-            Obese individuals have a shorter life expectancy and greater risks of CHD stroke, hypertension, certain cancers, abnormal menses, etc.\n
-            Restricting caloric intake and consuming more calories through physical activity and exercise are effective ways of reducing body weight and fatness.\n
+            Obese individuals have a shorter life expectancy and greater risks of CHD stroke, hypertension, certain cancers, abnormal menses, etc.\n \n
+            Restricting caloric intake and consuming more calories through physical activity and exercise are effective ways of reducing body weight and fatness.
     </string>
-
 
 
     <string name="exercisePreperation">Exercise Prescription for Cardio Respiratory Fitness</string>
@@ -161,7 +178,7 @@
         Body Composition
         Your body’s ratio of fat mass to fat-free mass like muscle and bone./n
     </string>
-<string name="lesson2_parametersofphysicalfitness">
+    <string name="lesson2_parametersofphysicalfitness">
     Cardiovascular Endurance
     Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity./n
     Muscular Strength
