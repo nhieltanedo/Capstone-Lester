@@ -1,16 +1,13 @@
 package com.example.pathfit2;
 
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageButton;
 
 import androidx.appcompat.widget.Toolbar;
 
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
@@ -24,7 +21,7 @@ public class pathfitFitnessLesson extends AppCompatActivity {
 
      RecyclerView recyclerView;
      pathfitFitnessExerciseAdapter cardAdapter;
-     ArrayList<fitnessExerciseCardItem> cardItemList;
+     ArrayList<pathfitCardItem> cardItemList;
      String[] cardTitle;
      int[] imageResource;
      String[] description;
@@ -65,7 +62,8 @@ public class pathfitFitnessLesson extends AppCompatActivity {
         backIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
+                Intent intent =  new Intent(pathfitFitnessLesson.this, lessonContents.class);
+                startActivity(intent);
             }
         });
         nextIcon.setOnClickListener(new View.OnClickListener() {
@@ -134,7 +132,7 @@ public class pathfitFitnessLesson extends AppCompatActivity {
         };
 
         for (int i = 0; i < cardTitle.length; i++) {
-            fitnessExerciseCardItem items = new fitnessExerciseCardItem(cardTitle[i], description[i], topic[i], imageResource[i]);
+            pathfitCardItem items = new pathfitCardItem(cardTitle[i], description[i], topic[i], imageResource[i]);
             cardItemList.add(items);
         }
 

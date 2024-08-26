@@ -21,12 +21,9 @@ public class Main_module extends AppCompatActivity {
         initViews();
 
         //btnLesson if the button is clicked munta ya keng lessonContens.java
-        btnLesson.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent =  new Intent(Main_module.this, lessonContents.class);
-                startActivity(intent);
-            }
+        btnLesson.setOnClickListener(v -> {
+            Intent intent = new Intent(Main_module.this, lessonContents.class);
+            startActivity(intent);
         });
 
         btnExercise.setOnClickListener(new View.OnClickListener() {
