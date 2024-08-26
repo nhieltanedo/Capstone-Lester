@@ -15,15 +15,15 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 
 
-public class pathfitFitnessExerciseAdapter extends RecyclerView.Adapter<pathfitFitnessExerciseAdapter.CardViewHolder> {
+public class pathfitAdapter extends RecyclerView.Adapter<pathfitAdapter.CardViewHolder> {
 
     Context context;
 
     ArrayList<pathfitCardItem> cardItemList;
     int expandedPosition = -1;
-  
 
-    public pathfitFitnessExerciseAdapter(Context context, ArrayList<pathfitCardItem> cardItemList) {
+
+    public pathfitAdapter(Context context, ArrayList<pathfitCardItem> cardItemList) {
         this.context = context;
         this.cardItemList = cardItemList;
     }

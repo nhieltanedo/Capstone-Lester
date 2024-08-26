@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">PATHFIT2</string>
     <string name="pathfit2">Pathfit 2 Fitness Exercise</string>
-    <string name="healthRelated">Health Related Components/Parameters of Physical Fitness</string>
+    <string name="healthRelated">Health Related Components of Physical Fitness</string>
     <string name="principlesAndMethods">Principle And Methods of Cardio Respiratory System</string>
     <string name="typeOfWeightTraining">Type of Weight Training Program</string>
     <string name="muscleFibreTypes">Muscle Fiber Types</string>
@@ -166,70 +166,72 @@
     Advantages: reduce the possibility of boredom
 
     </string>
-    <string name="lesson2_thefivehealth_relatedcomponentsofphysicalfitness">
-        Cardiovascular Endurance
-        Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity./n
-        Muscular Strength
-        The maximum force that a muscle or set of muscles is capable of exerting./n
-        Muscular Endurance
-        The ability of your muscles to sustain exercise for a period of time./n
-        Flexibility
-        The ability to move muscles and joints through a full range of motion./n
-        Body Composition
-        Your body’s ratio of fat mass to fat-free mass like muscle and bone./n
+    <string name="lesson2_FiveHealthRelatedComponentsOfPE">Five Health Related Components Of PE</string>
+    <string name="lesson2_FiveHealthRelatedComponentsOfPETopic">
+        Cardiovascular Endurance\n
+        Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity.\n\n
+        Muscular Strength\n
+        The maximum force that a muscle or set of muscles is capable of exerting.\n\n
+        Muscular Endurance\n
+        The ability of your muscles to sustain exercise for a period of time.\n\n
+        Flexibility\n
+        The ability to move muscles and joints through a full range of motion.\n\n
+        Body Composition\n
+        Your body’s ratio of fat mass to fat-free mass like muscle and bone.
     </string>
-    <string name="lesson2_parametersofphysicalfitness">
+    <string name="lesson2_parametersOfPhysicalFitness">Parameters Of Physical Fitness</string>
+    <string name="lesson2_parametersOfPhysicalFitnessTopic">
     Cardiovascular Endurance
-    Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity./n
-    Muscular Strength
-    The maximum force that a muscle or set of muscles is capable of exerting./n
-    Muscular Endurance
-    The ability of your muscles to sustain exercise for a period of time./n
-    Flexibility
-    The ability to move muscles and joints through a full range of motion./n
-    Body Composition
-    Your body’s ratio of fat mass to fat-free mass like muscle and bone./n
-    Balance
-    Ability to maintain equilibrium while stationary or moving./n
-    Coordination
-    Integration of sensory and motor systems to execute smooth, accurate, and controlled movements./n
-    Agility
-    Ability to change direction quickly and efficiently./n
-    Speed
-    Rate at which an individual can perform a movement or cover a distance in a given period./n
-    Power
-    Combination of strength and speed to perform explosive movements./n
+    Refers to the ability of the cardiovascular and respiratory systems to supply oxygen and nutrients to muscles during sustained physical activity.\n\n
+    Muscular Strength\n
+    The maximum force that a muscle or set of muscles is capable of exerting.\n\n
+    Muscular Endurance\n
+    The ability of your muscles to sustain exercise for a period of time.\n\n
+    Flexibility\n
+    The ability to move muscles and joints through a full range of motion.\n\n
+    Body Composition\n
+    Your body’s ratio of fat mass to fat-free mass like muscle and bone.\n\n
+    Balance\n
+    Ability to maintain equilibrium while stationary or moving.\n\n
+    Coordination\n
+    Integration of sensory and motor systems to execute smooth, accurate, and controlled movements.\n\n
+    Agility\n
+    Ability to change direction quickly and efficiently.\n\n
+    Speed\n
+    Rate at which an individual can perform a movement or cover a distance in a given period.\n\n
+    Power\n
+    Combination of strength and speed to perform explosive movements.
 </string>
-    <string name="lesson2_whatarethebenefitsofaddressinghealthrelatedcomponentsparametersofphysicalfitness">
+    <string name="lesson2_benefitsOfAddressingHealthRelatedComponents">Benefits Of Addressing Health Related Components</string>
+    <string name="lesson2_benefitsOfAddressingHealthRelatedComponentsTopic">
 
-        •DISEASE PREVENTION./n
+        •DISEASE PREVENTION.
 
-        •IMPROVED QUALITY OF LIFE./n
+        •IMPROVED QUALITY OF LIFE.\n
 
-        •ENHANCED FUNCTIONAL CAPACITY./n
+        •ENHANCED FUNCTIONAL CAPACITY.
 
     </string>
-    <string name="lesson3_training">
-    Training
-    Refers to the act, process, or method of teaching a person  or  animal  a  particular  skill,  knowledge,  or type of behavior./n
-    Specificity
-    It  is  a  fitness  principle  that  describes  how  fitness improvements   or   adaptations   resulting   from exercise stress are specific to the type of training performed./n
-    Sport-Specific Training
-    Athletes engage in training activities directly related to their sport./n
-    Interval Training
-    Interval	workouts	involve	alternating	between	high-intensity bursts and recovery periods./n
-    High-Intensity Interval Training (HIIT)
-    HIIT	sessions	involve	short,	intense	bursts	of	exercise followed by brief rest periods./n
-    Overload
-    The overload principle states that adaptation to exercise stress  occurs  when  the  workload  is  progressively increased during training./n
-    To improve cardio respiratory fitness, gradually increase exercise intensity, duration, or frequency over time.
-    Adaptation
-    refers	to	the	body’s	response	to	exercise	stress	over time./n
-    It	involves	changes	in	physiological	systems	to	better cope with the demands of physical activity.
-    Progression
-    refers	to	the	gradual	increase	in	exercise	intensity, duration, or frequency over time./n
-    It ensures that the body continues to adapt and improve as fitness levels increase.
-    </string>
+
+    <string name="lesson3_training">Training</string>
+    <string name="lesson3_trainingTopic"> Refers to the act, process, or method of teaching a person  or  animal  a  particular  skill,  knowledge,  or type of behavior.</string>
+
+    <string name="lesson3_specificity">Specificity</string>
+    <string name="lesson3_specificityTopic"> It  is  a  fitness  principle  that  describes  how  fitness improvements   or   adaptations   resulting   from exercise stress are specific to the type of training performed.</string>
+    <string name="lesson3_SportSpecificTraining">Sport-Specific Training</string>
+    <string name="lesson3_SportSpecificTrainingTopic">Athletes engage in training activities directly related to their sport.</string>
+    <string name="lesson3_highIntensity">High-Intensity Interval Training (HIIT)</string>
+    <string name="lesson3_highIntensityTopic"> HIIT	session involve	short,	intense	bursts	of	exercise followed by brief rest periods.</string>
+    <string name="lesson3_overload">Overload</string>
+    <string name="lesson3_overloadTopic"> The overload principle states that adaptation to exercise stress  occurs  when  the  workload  is  progressively increased during training.\n
+    To improve cardio respiratory fitness, gradually increase exercise intensity, duration, or frequency over time.</string>
+    <string name="lesson3_Adaptation">Adaptation</string>
+    <string name="lesson3_AdaptationTopic">Refers to the	body’s	response	to	exercise	stress	over time.
+    It	involves	changes	in	physiological	systems	to	better cope with the demands of physical activity.</string>
+    <string name="lesson3_Progression">Progression</string>
+    <string name="lesson3_ProgressionTopic">refers	to	the	gradual	increase	in	exercise	intensity, duration, or frequency over time.
+    It ensures that the body continues to adapt and improve as fitness levels increase.</string>
+
 
     <string name="lesson4_topic3">
     Deltoids

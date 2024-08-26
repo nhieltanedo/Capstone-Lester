@@ -1,6 +1,7 @@
 package com.example.pathfit2;
 
 import android.content.Intent;
+import android.hardware.camera2.params.BlackLevelPattern;
 import android.os.Bundle;
 import android.transition.AutoTransition;
 import android.transition.TransitionManager;
@@ -18,8 +19,9 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class lessonContents extends AppCompatActivity {
-    CardView fitnessExercise, healthRelated;
+    CardView fitnessExercise, healthRelated, typesWeightTraining, principleAndMethodsOfCardio;
     Toolbar toolbar;
+    ImageButton backIcon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,23 +40,27 @@ public class lessonContents extends AppCompatActivity {
 
     public void getItemId(){
         //for toolbar ID
+
+        backIcon = findViewById(R.id.left_icon);
         toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
-        toolbar.setNavigationIcon(R.drawable.arrow_back);
+
+
 
 
         //for Lessons ID
         fitnessExercise = findViewById(R.id.lesson1);
         healthRelated = findViewById(R.id.lesson2);
+        typesWeightTraining = findViewById(R.id.lesson3);
+        principleAndMethodsOfCardio = findViewById(R.id.lesson4);
     }
 
     public void onItemClickedAction(){
         //for toolbar
-        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                finish();
-            }
+
+        backIcon.setOnClickListener(v -> {
+
+            Intent intent =  new Intent(lessonContents.this, Main_module.class);
+            startActivity(intent);
         });
 
 
@@ -66,6 +72,16 @@ public class lessonContents extends AppCompatActivity {
 
         healthRelated.setOnClickListener(v -> {
             Intent intent =  new Intent(lessonContents.this, healthRelatedLesson.class);
+            startActivity(intent);
+        });
+
+        typesWeightTraining.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, typesOfWeightTrainingActivity.class);
+            startActivity(intent);
+        });
+
+        principleAndMethodsOfCardio.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, principlesOfCardio.class);
             startActivity(intent);
         });
     }
