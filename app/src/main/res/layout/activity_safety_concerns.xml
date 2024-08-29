@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".safetyConcerns">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bgColorMain">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp">
+
+            <!-- Left icon -->
+            <ImageButton
+                android:id="@+id/left_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:tint="@color/black"
+                android:src="@drawable/arrow_back"
+                android:contentDescription="back"
+                android:background="?attr/selectableItemBackground"
+                android:padding="8dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"/>
+
+            <!-- Center TextView -->
+            <TextView
+                android:id="@+id/toolbar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/principlesAndMethods"
+                android:textSize="17sp"
+                android:textAlignment="center"
+                android:fontFamily="@font/agbalumo"
+                android:textColor="@color/txtColor"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"/>
+
+            <!-- Right icon -->
+            <ImageButton
+                android:id="@+id/right_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:tint="@color/black"
+                android:src="@drawable/arrow_forward"
+                android:contentDescription="next Lesson"
+                android:background="?attr/selectableItemBackground"
+                android:padding="8dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"/>
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+
+        android:layout_marginTop="5dp">
+        <!--populate lesson1 contents using recycler view-->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerSafetyConcerns"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/pathfit_cardview"
+            />
+
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

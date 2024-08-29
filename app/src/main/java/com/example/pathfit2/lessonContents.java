@@ -19,7 +19,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class lessonContents extends AppCompatActivity {
-    CardView fitnessExercise, healthRelated, typesWeightTraining, principleAndMethodsOfCardio;
+    CardView fitnessExercise, healthRelated, typesWeightTraining, principleAndMethodsOfCardio, muscleFiberTypes, muscoSkeletalSystem, safetyConcerns;
     Toolbar toolbar;
     ImageButton backIcon;
 
@@ -52,6 +52,9 @@ public class lessonContents extends AppCompatActivity {
         healthRelated = findViewById(R.id.lesson2);
         typesWeightTraining = findViewById(R.id.lesson3);
         principleAndMethodsOfCardio = findViewById(R.id.lesson4);
+        muscleFiberTypes = findViewById(R.id.lesson5);
+        muscoSkeletalSystem = findViewById(R.id.lesson6);
+        safetyConcerns = findViewById(R.id.lesson7);
     }
 
     public void onItemClickedAction(){
@@ -82,6 +85,19 @@ public class lessonContents extends AppCompatActivity {
 
         principleAndMethodsOfCardio.setOnClickListener(v -> {
             Intent intent =  new Intent(lessonContents.this, principlesOfCardio.class);
+            startActivity(intent);
+        });
+        muscleFiberTypes.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, muscleFiberTypesActivity.class);
+            startActivity(intent);
+        });
+        muscoSkeletalSystem.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, muscoSkeletal.class);
+            startActivity(intent);
+        });
+
+        safetyConcerns.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, muscoSkeletal.class);
             startActivity(intent);
         });
     }

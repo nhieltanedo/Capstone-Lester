@@ -13,6 +13,15 @@
         android:theme="@style/Theme.PATHFIT2"
         tools:targetApi="31">
         <activity
+            android:name=".safetyConcerns"
+            android:exported="false" />
+        <activity
+            android:name=".muscoSkeletal"
+            android:exported="false" />
+        <activity
+            android:name=".muscleFiberTypesActivity"
+            android:exported="false" />
+        <activity
             android:name=".principlesOfCardio"
             android:exported="false" />
         <activity

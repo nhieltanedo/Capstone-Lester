@@ -265,6 +265,316 @@
     THE CALF REFERS TO THE MUSCULAR AREA LOCATED AT THE BACK OF THE LOWER LEG, BETWEEN THE KNEE AND THE ANKLE. IT IS PRIMARILY FORMED BY THE GASTROCNEMIUS AND SOLEUS MUSCLES, WHICH WORK TOGETHER TO ALLOW FOR PLANTAR FLEXION OF THE FOOT (POINTING THE TOES DOWNWARDS) AND ASSIST IN WALKING, RUNNING, AND JUMPING MOVEMENTS. THE CALF MUSCLES ARE AMONG THE STRONGEST IN THE BODY AND PLAY A CRUCIAL ROLE IN PROVIDING POWER AND PROPULSION DURING LOCOMOTION. THEY ALSO CONTRIBUTE TO MAINTAINING PROPER BALANCE AND STABILITY./n
 
 
+    </string>
+    <string name="lesson5_muscleFiber">What is Muscle fiber</string>
+    <string name="lesson5_muscleFiberTopic">Muscle fibers are large multinucleated cells whose most obvious histological feature is cross-striations. The cytoplasm contains many myofibrils that include tiny cylinders consisting of bundles of myofilaments</string>
+    <string name="lesson5_humanSkeletal">Human skeletal muscle </string>
+    <string name="lesson5_humanSkeletalTopic">is composed of a heterogenous collection of muscle fiber types. This range of muscle fiber types allows for the wide variety of capabilities that human muscles display.</string>
+    <string name="lesson5_twoFormFiber">Two primary forms of fibers</string>
+    <string name="lesson5_twoFormFiberTopic">Collagen Fibers and Elastic Fibers</string>
+    <string name="lesson5_collagenFiber">Collagen Fibers</string>
+    <string name="lesson5_collagenFiberTopic">is a type of protein fiber found abundantly throughout our body</string>
+    <string name="lesson5_elasticFiber">Elastic Fibers</string>
+    <string name="lesson5_elasticFiberTopic">Elastic fibers are essential extracellular matrix macromolecules comprising an elastin core surrounded by a mantle of fibrillin-rich microfibrils.</string>
+    <string name="lesson5_threeTypesMuscleFiber">The three types of muscle fibers</string>
+    <string name="lesson5_threeTypesMuscleFiberTopic">Slow Oxidative (SO), Fast Oxidative (FO) and  Fast Glycolytic (FG)</string>
+    <string name="lesson5_slowOxidative">Slow oxidative (SO)</string>
+    <string name="lesson5_slowOxidativeTopic"> Type 1: Slow oxidative (SO) fibers contract relatively slowly and use aerobic respiration (oxygen and glucose) to produce ATP(adenosine triphosphate). They produce low power contractions over long periods and are slow to fatigue</string>
+    <string name="lesson5_fastOxidative">Fast oxidative  (FO)</string>
+    <string name="lesson5_fastOxidativeTopic">Type 2 A: Fast oxidative (FO) fibers have fast contractions and primarily use aerobic respiration, but because they may switch to anaerobic respiration (glycolysis), can fatigue more quickly than SO fibers.</string>
+    <string name="lesson5_fastGlycolytic">Fast glycolytic (FG)</string>
+    <string name="lesson5_fastGlycolyticTopic">Type 2 B: Fast glycolytic (FG) fibers have fast contractions and primarily use anaerobic glycolysis. The FG fibers fatigue more quickly than the others</string>
+    <string name="lesson5_typeIFiber">Type I fibers (SO)</string>
+    <string name="lesson5_typeIFiberTopic">Type I fibers (SO). These fibers have a rich capillary supply, numerous mitochondria and aerobic respiratory enzymes, and a high concentration  of  myoglobin. 
+Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that improves the delivery of oxygen to the slow-twitch fibers. Because of their high myoglobin content, slow-twitch fibers are also called red fibers.</string>
+    <string name="lesson5_type2Afiber">Type 2A (FO) fibers</string>
+    <string name="lesson5_type2AfiberTopic">are sometimes called intermediate fibers because they possess characteristics that are intermediate between fast fibers and slow fibers. They produce ATP relatively quickly, more quickly than SO fibers, and thus can produce relatively high amounts of tension.</string>
+    <string name="lesson5_type2BFibers">Type 2B (FG) fibers</string>
+    <string name="lesson5_type2BFibersTopic">primarily use anaerobic glycolysis as their ATP source. They have a large diameter and possess high amounts of glycogen, which is used in glycolysis to generate ATP quickly to produce high levels of tension. \n
+Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that improves the delivery of oxygen to the slow-twitch fibers. Because of their high myoglobin content, slow-twitch fibers are also called red fibers.</string>
+    <string name="lesson5_speedOfConstraction">Speed of Contraction</string>
+    <string name="lesson5_speedOfConstractionTopic">The speed of contraction is dependent on how quickly myosin’s ATPase hydrolyzes ATP to produce cross-bridge action.</string>
+    <string name="lesson5_numberOfSlowFastTwitchFiber">Numbers of Slow and Fast-Twitch Fibers</string>
+    <string name="lesson5_numberOfSlowFastTwitchFiberTopic">The number of slow and fast-twitch fibers contained in the body varies greatly between individuals and is determined by a person’s genetics. People who do well at endurance sports tend to have a higher number of slow-twitch fibers, whereas people who are better at sprint events tend to have higher numbers of fast-twitch muscle fibers.</string>
+    <string name="lesson5_ageing">Ageing</string>
+    <string name="lesson5_ageingTopic">Age-related loss of muscle mass results primarily from a decrease in the total number of both type I and type II fibers and, secondarily, from a preferential atrophy of type II fibers. \n
+    Atrophy of type II fibers leads to a larger proportion of slow type muscle mass in aged muscle, as evidenced by slower contraction and relaxation times in older muscle. \n
+        In addition, the loss of alpha motoneurons with age results in some reinnervation of “abandoned” muscle fibers by adjacent motor units that may be of a different type. This may facilitate fiber type conversion, as the reinnervated muscle fibers take on the properties of the new “parent” motor unit
+    </string>
+    <string name="lesson5_muscleMetabolism">Muscle Metabolism</string>
+    <string name="lesson5_muscleMetabolismTopic">ATP provides the energy for muscle contraction. The three mechanisms for ATP regeneration are creatine phosphate, anaerobic glycolysis, and aerobic metabolism. \n
+    Creatine phosphate provides about the first 15 seconds of ATP at the beginning of muscle contraction. \n
+        Aerobic metabolism utilizes oxygen to produce much more ATP, allowing a muscle to work for longer periods \n
+        Muscle fatigue, which has many contributing factors, occurs when muscle can no longer contract. \n
+        An oxygen debt is created as a result of muscle use.
+    </string>
+    <string name="lesson5_physio">Physiotherapy</string>
+    <string name="lesson5_physioTopic">Physical therapy interventions can affect muscle fiber types leading to improvements in muscle performance. \n
+    Increase the patients resistance to fatigue. Training that places a high metabolic demand on the muscle (endurance training) will increase the oxidative capacity of all muscle fiber types, mainly through increases in the amount of mitochondria, aerobic/oxidative penzymes, and capillarization of the trained muscle. \n
+        Increase the patients force production. High-intensity resistance training (eg, high-load–low-repetition training) results in changes in fiber type similar to those seen with endurance training, although muscle hypertrophy also plays an essential role in producing strength gains. Initial increases in force production with high-intensity resistance training programs are largely mediated by neural factors, rather than visible hypertrophy of muscle fibers, in adults with no pathology or impairments.
+    </string>
+
+    <string name="lesson6_musculoskeletalSystem">Musculoskeletal System</string>
+
+    <string name="lesson6_musculoskeletalSystemTopic">
+    The term musculoskeletal originates from the two Latin words musculus meaning muscle and skeletum meaning skeleton or bony structure. The human musculoskeletal system (AKA the human locomotor system and previously the activity system) is an organ system that gives humans the ability to move using their muscular and skeletal systems.
+</string>
+    <string name="lesson6_componentsOfMusculesketalSystem">Components of Musculoskeletal System</string>
+    <string name="lesson6_componentsOfMusculesketalSystemTopic">1.Bones \n 2.Muscles \n 3.Connective tissue \n 4.Tendons \n 5.Ligaments \n 6.Joints \n 7.Cartilage</string>
+    <string name="lesson6_bones">Bones</string>
+    <string name="lesson6_bonesTopic">is a mineralized connective tissue that form the structural framework of the vertebrate skeleton. \n
+    Bones are grouped into Axial Skeleton and Appendicular Skeleton. \n
+        Appendicular Skeleton - Facilitate movement(girdles and limbs) \n
+        Axial Skeleton- protect internal organs(Skull, Vertebral column, and Thoracic cage) \n
+         Of the 206 bones, 80 are in the axial skeleton, with 64 in upper appendicular and 62 in the lower appendicular skeleton.
+    </string>
+    <string name="lesson6_fiveTypes">Bones can be classified into five types</string>
+    <string name="lesson6_fiveTypesTopic">1.Long bones-(Femur) Support weight and facilitate movements. \n
+        2.Short bones-(Carpals-Hand, Tarsals, Feet) Provide stability. \n
+        3.Flat bones- (Cranial bones-Skull)(Thoracic cage) Protect internal organs. \n
+        4.Sesamoid bones- (Patella-Knees) Reinforce tendons. \n
+        5.Irregular Bones- (Vertebrae)(Sacrum) Protect organs in pelvic cavity. \n
+    </string>
+    <string name="lesson6_boneCrucialFunction">Bones serve several crucial functions in the body:</string>
+    <string name="lesson6_boneCrucialFunctionTopic">
+        1. Structural Support: Bones provide the framework that supports the body and gives it shape.  \n
+        2. Protection: Bones protect vital organs such as the brain, heart, and lungs from injury. \n
+        3. Movement: Bones, along with muscles, facilitate movement by providing attachment points and acting as levers. \n
+        4. Blood Cell Production: Bones contain bone marrow, where red blood cells, white blood cells, and platelets are produced. \n
+        5. Mineral Storage: Bones store minerals such as calcium and phosphorus, which are essential for various bodily functions, including bone strength and nerve function. \n
+    </string>
+    <string name="lesson6_muscle">Muscle</string>
+    <string name="lesson6_muscleTopic">are contractile tissue which brings about movements.</string>
+    <string name="lesson6_body3tmaintypesofMuscleTissue">The body 3 main types of muscle tissue</string>
+    <string name="lesson6_body3tmaintypesofMuscleTissueTopic">
+        1.Skeletal muscles- attach to bones(Voluntary). \n
+        2.Cardiac muscles- only found in heart(Involuntary). \n
+        3.Smooth Muscles- Stomach(Involuntary). \n
+    </string>
+    <string name="lesson6_functionOfMuscle">Functions of muscles</string>
+    <string name="lesson6_functionOfMuscleTopic">
+        1.Movement  \n 2.Support  \n 3.Protection \n  4.Heat \n  Generation  \n 5.Blood Circulation</string>
+    <string name="lesson6_classifiedintofivetypes">Bones can be classified into five types</string>
+    <string name="lesson6_classifiedintofivetypesTopic">
+        1.Long bones-(Femur) Support weight and facilitate movements. \n
+        2.Short bones-(Carpals-Hand, Tarsals, Feet) Provide stability. \n
+        3.Flat bones- (Cranial bones-Skull)(Thoracic cage) Protect internal organs. \n
+        4.Sesamoid bones- (Patella-Knees) Reinforce tendons. \n
+        5.Irregular Bones- (Vertebrae)(Sacrum) Protect organs in pelvic cavity. \n
+    </string>
+    <string name="lesson6_bonesServeSeveralCrucialFunction">Bones serve several crucial functions in the body:</string>
+    <string name="lesson6_bonesServeSeveralCrucialFunctionTopic">
+        1. Structural Support: Bones provide the framework that supports the body and gives it shape. \n
+        2. Protection: Bones protect vital organs such as the brain, heart, and lungs from injury. \n
+        3. Movement: Bones, along with muscles, facilitate movement by providing attachment points and acting as levers. \n
+        4. Blood Cell Production: Bones contain bone marrow, where red blood cells, white blood cells, and platelets are produced. \n
+        5. Mineral Storage: Bones store minerals such as calcium and phosphorus, which are essential for various bodily functions, including bone strength and nerve function. \n
+    </string>
+    <string name="lesson6_Connectivetissue">Connective tissue</string>
+    <string name="lesson6_ConnectivetissueTopic">is like the glue that holds everything together. \n
+    Connective tissue is composed primarily of an extracellular matrix and a limited number of cells. Most connective tissues are composed of ground substance, fibers, and cells, although blood and lymph are specialized fluid connective tissues without fiber.
+    </string>
+    <string name="lesson6_functionConnectivetissue">Functions of connective tissue</string>
+    <string name="lesson6_functionConnectivetissueTopic">1.Supporting organs. \n 2. Transporting nutrients and wastes. \n  3. Defending against pathogens. \n  4. Storing fats. \n  5.Repairing damage tissues. \n </string>
+    <string name="lesson6_tendos">Tendons</string>
+    <string name="lesson6_tendosTopic">(connect muscles to bones) tendons let us move our limbs</string>
+    <string name="lesson6_threeTypesTendons"> The three types of tendons in the human body are</string>
+    <string name="lesson6_threeTypesTendonsTopic">
+        1. Flexor tendons are cord-like structures running from the forearm across the wrist and palm and into the fingers, allowing you to bend your fingers and thumb to grasp an object or make a fist \n
+        2. Extensor tendons run just underneath the skin along the back of the hands and wrists. They control the hands ability to straighten the fingers and wrists \n
 
     </string>
+    <string name="lesson6_functionOfTendos">Functions of tendons</string>
+    <string name="lesson6_functionOfTendosTopic">1. Allows limbs movement. \n 2. Injury absorber</string>
+    <string name="lesson6_ligaments">Ligaments</string>
+    <string name="lesson6_ligamentsTopic">(connect bones to bones) bundles of connective tissue that connect one bone to an adjacent bone. </string>
+    <string name="lesson6_AreThereDifferentTypesofLigaments">Are There Different Types of Ligaments?</string>
+    <string name="lesson6_AreThereDifferentTypesofLigamentsTopic">
+        To understand the different types of ligaments, it is important to understand the structure of a joint. Over 900 ligaments support the human body. Ligaments stabilize the skeleton, allowing people to stand erect, move fluidly, and avoid collapsing.. \n
+        Major ligaments support joints such as the hips, knees, shoulders, and back. These joints endure large shifts in forces when people walk, climb, push, and pull. Intracapsular ligaments are located within a joint and bathed in synovial fluid. Extracapsular ligaments are outside the joint and provide the stability needed to prevent joint dislocation.
+    </string>
+    <string name="lesson6_functionOfLigaments">Functions of ligaments</string>
+    <string name="lesson6_functionOfLigamentsTopic">
+         1.Make sure that joints dont twist. \n 2.Stabilize muscles and bones. \n  3.Strengthen joints
+    </string>
+    <string name="lesson6_joints">Joints</string>
+    <string name="lesson6_jointsTopic"> is the part of the body where two or more bones meet to allow movement. \n \n
+    Healthcare providers classify joints into three categories depending on how much connective tissue they contain:  \n  Fibrous joints.\n Cartilaginous joints. \n Synovial joints.
+    </string>
+    <string name="lesson6_Whatarefibrousjoints">What are fibrous joints?</string>
+    <string name="lesson6_WhatarefibrousjointsTopic">Fibrous joints aren’t very flexible. Some of them don’t move at all. Their name reflects what they’re made of — thick connective tissue that’s tightly woven together like fiber. Fibrous joints usually contain a lot of collagen.</string>
+    <string name="lesson6_threetypesoffibrousjoints">three types of fibrous joints</string>
+    <string name="lesson6_threetypesoffibrousjointsTopic">W
+     Sutures: The joints that hold the plates of your skull together. \n
+        Gomphoses: Joints that hold your teeth in place in your jaw bones (mandibles). \n
+         Syndesmoses: Joints that hold two closely related bones together in place. A syndesmosis joint keeps your tibia (shin bone) connected to your fibula (calf bone). \n
+    </string>
+
+    <string name="lesson6_Whatarecartilaginousjoints">What are cartilaginous joints? </string>
+    <string name="lesson6_WhatarecartilaginousjointsTopic">
+        Cartilaginous joints are cushioned by a layer of cartilage that joins the bones together. Most cartilaginous joints have some movement, but don’t move far or in many directions. \n
+        The joints where your ribs meet your sternum (breastbone) are cartilaginous. The pubic symphysis joint that joins your left and right pelvic bones together is another cartilaginous joint. \n
+    </string>
+
+    <string name="lesson6_Whataresynovialjoints">What are synovial joints?</string>
+    <string name="lesson6_WhataresynovialjointsTopic">WSynovial joints have the most freedom to move. They’re made of a cavity in one bone that another bone fits into. Slippery hyaline cartilage covers the ends of bones that make up a synovial joint. A synovial membrane — a fluid-filled sac that lubricates and protects the joint — lines the space between the bones. This extra cushioning helps synovial joints move with as little friction as possible. </string>
+    <string name="lesson6_Functionsofjoints">What are synovial joints?</string>
+    <string name="lesson6_FunctionsofjointsTopic">
+        1. Provides flexibility for skeleton. \n
+        2. Free range motion/movements (flexion, extension, abduction, adduction, circumduction).
+    </string>
+    <string name="lesson6_Cartilage">Cartilage</string>
+    <string name="lesson6_CartilageTopic">(cushion between bones) is a strong, flexible connective tissue that protects your joints and bones. It acts as a shock absorber throughout your body.</string>
+
+    <string name="lesson6_threetypesofcartilageinyourbody">three types of cartilage in your body:</string>
+    <string name="lesson6_threetypesofcartilageinyourbodyTopic">Hyaline cartilage. \n  Elastic cartilage. \n  Fibrocartilage. </string>
+    <string name="lesson6_Hyalinecartilage">Hyaline cartilage</string>
+    <string name="lesson6_HyalinecartilageTopic">
+        is the most common type of cartilage in your body. It lines your joints and caps the ends of your bones. Hyaline cartilage at the ends of your bones is sometimes referred to as articular cartilage. \n
+        is slippery and smooth which helps your bones move smoothly past each other in your joints. It’s flexible but strong enough to help your joints hold their shape.
+    </string>
+    <string name="lesson6_Hyalinecartilagelocationsinyourbody">Hyaline cartilage locations in your body </string>
+    <string name="lesson6_HyalinecartilagelocationsinyourbodyTopic">
+        At the ends of bones that form joints. Between your ribs. \n
+        In your nasal passages. \n
+    </string>
+    <string name="lesson6_Fibrocartilage">Fibrocartilage</string>
+    <string name="lesson6_FibrocartilageTopic"> is what its name sounds like: tough cartilage made of thick fibers. It’s the strongest and least flexible of the three types. It’s tough enough to hold parts of your body in place and absorb impacts.</string>
+    <string name="lesson6_Fibrocartilagelocationsinyourbody">Fibrocartilage locations in your body</string>
+    <string name="lesson6_FibrocartilagelocationsinyourbodyTopic">
+        The meniscus in your knee. \n
+        In disks between the vertebrae in your spine. \n
+        Supporting muscles, tendons and ligaments throughout your body.
+    </string>
+    <string name="lesson6_Elasticcartilage">Elastic cartilage</string>
+    <string name="lesson6_ElasticcartilageTopic">is your most flexible cartilage. It supports parts of your body that need to bend and move to function. Elastic cartilage can bounce back to its original shape, even after a strong force. Your ear is made of elastic cartilage. It can bend and move without hurting you before returning to its usual shape.</string>
+    <string name="lesson6_Elasticcartilagelocationsinyourbody">Elastic cartilage locations in your body</string>
+    <string name="lesson6_ElasticcartilagelocationsinyourbodyTopic">
+       Your external ears (the parts of your ear that are outside your body). \n
+        Your peustachian tubes (the tube that carries sounds from your external ear into your head). \n
+        Your larynx (your voice box).
+    </string>
+    <string name="lesson6_functionofcardillage"></string>
+    <string name="lesson6_functionofcardillageTopic">
+        1.Resist compressive forces. \n
+         2.Enhance bones resilience. \n
+        3. .Provide support on bony areas. \n
+        4.Reduces friction. \n
+    </string>
+
+    <string name="lesson6_WhataretheimportancesofMusculoskeletalsystem">
+        What are the importances of the Musculoskeletal system?
+    </string>
+    <string name="lesson6_WhataretheimportancesofMusculoskeletalsystemTopic">
+        1. Support and Structure: The bones provide a framework for the body, giving it shape and support. This structural support allows us to stand upright and move effectively.\n
+        2. Protection: Bones protect vital organs such as the brain, heart, and lungs from injury. For example, the skull protects the brain, and the rib cage protects the heart and lungs.\n
+        3. Movement: Muscles attached to bones enable movement by contracting and relaxing. This allows us to perform activities such as walking, running, lifting, and grasping objects.\n
+        4. Joint Stability: Joints, where bones meet, are supported and stabilized by ligaments and tendons. This stability is essential for maintaining proper alignment and preventing injuries during movement.\n
+        5. Blood Cell Production: Bone marrow within certain bones produces red blood cells, white blood cells, and platelets, which are essential for oxygen transport, immune function, and blood clotting.\n
+        6. Mineral Storage: Bones serve as a reservoir for essential minerals such as calcium and phosphorus. These minerals are released into the bloodstream as needed to maintain proper levels in the body.\n
+        7. Metabolic Regulation: Bones produce hormones such as osteocalcin, which helps regulate blood sugar levels, fat deposition, and energy metabolism.\n
+    </string>
+
+    <string name="lesson6_StudyingthemusculoskeletalsysteminPATHFIT">Studying the musculoskeletal system in PATHFIT 2 and in our daily lives offers numerous benefits, including</string>
+    <string name="lesson6_StudyingthemusculoskeletalsysteminPATHFITTopic">
+        1. Enhanced knowledge of how the body moves and functions. \n
+        2. Improved ability to prevent injuries during physical activity. \n
+        3. Better performance in sports and exercise through optimized training strategies. \n
+        4. Increased awareness of the importance of musculoskeletal health for overall well-being. \n
+        5. Greater effectiveness in rehabilitation after injuries, leading to faster recovery and return to activity.
+    </string>
+    <string name="lesson6_HowtotakecareofourMusculoskeletalSystem">How to take care of our Musculoskeletal System?</string>
+    <string name="lesson6_HowtotakecareofourMusculoskeletalSystemTopic">
+        Proper care of the musculoskeletal system involves a combination of regular exercise, proper nutrition, adequate rest, and avoiding behaviors that can cause injury or strain. Here are some tips for maintaining the health of your musculoskeletal system. \n
+        1. Exercise Regularly: Engage in a combination of aerobic exercise, strength training, and flexibility exercises to improve muscle strength, endurance, and flexibility. This helps support your bones and joints and reduces the risk of injury. \n
+        2. Maintain a Balanced Diet: Consume a well-balanced diet rich in calcium, vitamin D, protein, and other essential nutrients to support bone health and muscle function. \n
+        3. Stay Hydrated: Drink plenty of water to keep your muscles and joints hydrated, which helps maintain their flexibility and function. \n
+        4. Maintain Good Posture: Practice good posture when sitting, standing, and lifting objects to reduce strain on your muscles and joints and prevent musculoskeletal problems. \n
+        5. Use Proper Ergonomics: Ensure that your workspace, furniture, and equipment are ergonomically designed to reduce strain on your muscles and joints. \n
+        6. Get Adequate Rest: Allow your muscles and joints time to rest and recover after exercise or physical activity. Aim for 7-9 hours of quality sleep each night to support overall muscle and tissue repair. \n
+        7. Avoid Overuse and Injury: Avoid overtraining or repetitive movements that can lead to overuse injuries. Use proper techniques and equipment during physical activities to reduce the risk of injury. \
+        8. Listen to Your Body:Pay attention to any signs of discomfort or pain in your muscles or joints. If you experience persistent pain or discomfort, seek medical attention promptly. \n
+        9. Maintain a Healthy Weight: Maintain a healthy body weight to reduce the strain on your muscles and joints and lower your risk of musculoskeletal conditions such as osteoarthritis. \n
+        10. Seek Professional Guidance: Consult with a healthcare professional, such as a physical therapist or orthopedic specialist, for personalized guidance on preventing injuries and managing musculoskeletal conditions.
+    </string>
+    <string name = "lesson7_whatAreSafetyConcerns">What are safety concerns</string>
+    <string name = "lesson7_whatAreSafetyConcernsTopic">Safety concerns refer to potential risks or hazards that could arise in various situations, environments, or activities. These concerns are related to the well-being and physical safety of individuals involved.</string>
+    <string name = "lesson7_whyAreSafetyConcernsImportant">Why are safety concerns important?</string>
+    <string name = "lesson7_whyAreSafetyConcernsImportantTopic">Safety concerns are important to prevent injuries, and ensure individuals can participate in activities safely. By addressing safety concerns, we can minimize the risk of accidents, protect against potential harm, and create environments where individuals can enjoy the benefits of physical activity without fear of injury or harm.</string>
+    <string name = "lesson7_safetyConcernsInExercising">Safety Concerns in Exercising</string>
+    <string name = "lesson7_safetyConcernsInExercisingTopic">
+        1. Overexertion \n
+        2. Inadequate Warm-up \n
+        3. Improper Equipment Use \n
+        4. Ignoring Pain or Discomfort \n
+        5. Lack of Rest and Recovery \n
+    </string>
+    <string name = "lesson7_Overexertion">Overexertion</string>
+    <string name = "lesson7_OverexertionTopic">Pushing yourself too hard or exercising beyond your limits can lead to fatigue, dehydration, and even serious injuries like muscle strains or heat exhaustion.</string>
+    <string name = "lesson7_someCausesOfOverexertion">
+        Some causes of Overexertion
+    </string>
+    <string name = "lesson7_someCausesOfOverexertionTopic">
+        Repetitive movements - When you repeatedly move a joint or muscle over a long period of time, it can lead to overexertion. The repetitive movements can put strain on your body, leading to pain or discomfort. \n
+        Improper Technique - Overexertion may stem from doing an activity or task incorrectly. This can place stress on your muscles, bones, joints, and connective tissues. \n
+        Prolonged Activity - If you continuously do an activity without regular breaks, you’ll eventually become fatigued. The excess physical effort can be hard on your body. \n
+    </string>
+    <string name = "lesson7_inadequateWarmUp">Inadequate Warm-up</string>
+    <string name = "lesson7_inadequateWarmUpTopic">Not warming up properly before exercise increases the risk of muscle pulls, strains, and other injuries. Without a proper warm-up, muscles may be tight and less prepared for the demands of exercise.</string>
+    <string name = "lesson7_ImproperEquipmentUse">Improper Equipment Use</string>
+    <string name = "lesson7_ImproperEquipmentUseTopic">Using exercise equipment incorrectly or using equipment that is not properly maintained can lead to accidents and injuries. This includes things like using weights that are too heavy, using machines with improper settings, or wearing improper footwear.</string>
+    <string name = "lesson7_IgnoringPainorDiscomfort">Ignoring Pain or Discomfort</string>
+    <string name = "lesson7_IgnoringPainorDiscomfortTopic">Pain during exercise can be a sign of an underlying issue or injury. Ignoring pain or discomfort and continuing to exercise can worsen the injury or lead to further complications.</string>
+    <string name = "lesson7_LackofRestandRecovery">Lack of Rest and Recovery</string>
+    <string name = "lesson7_LackofRestandRecoveryTopic">Failing to incorporate rest days into your exercise routine can lead to overtraining, fatigue, and increased risk of injury. Rest and recovery are essential for allowing muscles to repair and grow stronger after exercise.</string>
+    <string name = "lesson7_SafetyConcernTipsforExercising">Safety Concern Tips for Exercising</string>
+    <string name = "lesson7_SafetyConcernTipsforExercisingTopic">
+        1. Warm up properly before starting your workout. \n
+        2. Wear appropriate footwear for your chosen activity. \n
+        3. Stay hydrated by drinking water before, during, and after exercise. \n
+        4. Use proper form and technique to avoid injury. \n
+        5. Incorporate rest days into your workout routine to allow for recovery. \n
+        6. Listen to your body and stop exercising if you feel pain or discomfort. \n
+        7. Pay attention to your surroundings to avoid accidents. \n
+        8. Be mindful of weather conditions when exercising outdoors. \n
+        9. Cool down after your workout to gradually lower your heart rate. \n
+    </string>
+    <string name = "lesson7_SafetyConcernsinWeightLifting">Safety Concerns in Weight Lifting</string>
+    <string name = "lesson7_SafetyConcernsinWeightLiftingTopic">
+        Safety Concerns \n
+        1. Incorrect Lifting Technique. \n
+        2. Overloading. \n
+        3. Lack of Spotter. \n
+        4. Failure to warm-up. \n
+        5. Neglecting Recovery. \n
+    </string>
+    <string name = "lesson7_IncorrectLiftingTechnique">Incorrect Lifting Technique</string>
+    <string name = "lesson7_IncorrectLiftingTechniqueTopic">Using improper form during weightlifting exercises can put unnecessary strain on muscles and joints, increasing the risk of injuries such as strains, sprains, and muscle tears.</string>
+    <string name = "lesson7_Overloading">OverLoading</string>
+    <string name = "lesson7_OverloadingTopic">Lifting weights that are too heavy or attempting to lift beyond your current strength level can lead to serious injuries, including muscle strains, joint injuries, and even fractures.</string>
+    <string name = "lesson7_lackOfSpotter">Lack of Spotter</string>
+    <string name = "lesson7_lackOfSpotterTopic">Attempting heavy lifts without a spotter can be dangerous, especially for exercises like bench press or squats. Without a spotter, theres a risk of dropping the weight and causing injury to yourself.</string>
+    <string name = "lesson7_FailuretoWarmup">Failure to Warm-up</string>
+    <string name = "lesson7_FailuretoWarmupTopic">Skipping a proper warm-up before weightlifting can increase the likelihood of muscle strains and other injuries. Adequate warm-up prepares the muscles for the demands of lifting and improves flexibility.</string>
+    <string name = "lesson7_NeglectingRecovery">Neglecting Recovery</string>
+    <string name = "lesson7_NeglectingRecoveryTopic">Failing to allow sufficient time for recovery between weightlifting sessions can lead to overtraining, fatigue, and increased risk of injury. Proper rest and recovery are essential for muscle repair and growth.</string>
+    <string name = "lesson7_SafetyConcernTipsforWeightLifting">Safety Concern Tips for Weight Lifting</string>
+    <string name = "lesson7_SafetyConcernTipsforWeightLiftingTopic">
+        Start with lighter weights and gradually increase the load as you become stronger and more experienced. \n
+        Always use proper form and technique for each exercise to prevent injuries. \n
+        Focus on controlled movements rather than rushing through repetitions. \n
+        Ensure that the weight equipment is in good condition and properly maintained. \n
+        Use spotters, especially when lifting heavy weights or performing exercises where you might lose control of the weight. \n
+        Allow for adequate rest between sets to prevent overexertion and promote recovery. \n
+        Hydrate adequately before, during, and after your weightlifting session. \n
+        Listen to your body and stop immediately if you experience pain or discomfort. \n
+        Cool down properly after your weightlifting session with light cardio and stretching to help prevent muscle soreness and stiffness. \n
+
+    </string>
+
+
+
+
+
+    "
 </resources>
