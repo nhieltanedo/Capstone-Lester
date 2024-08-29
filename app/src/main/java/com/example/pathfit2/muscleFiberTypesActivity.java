@@ -61,14 +61,14 @@ public class muscleFiberTypesActivity extends AppCompatActivity {
         backIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent =  new Intent(muscleFiberTypesActivity.this, lessonContents.class);
+                Intent intent =  new Intent(muscleFiberTypesActivity.this, principlesOfCardio.class);
                 startActivity(intent);
             }
         });
         nextIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent =  new Intent(muscleFiberTypesActivity.this, healthRelatedLesson.class);
+                Intent intent =  new Intent(muscleFiberTypesActivity.this, muscoSkeletal.class);
                 startActivity(intent);
             }
         });

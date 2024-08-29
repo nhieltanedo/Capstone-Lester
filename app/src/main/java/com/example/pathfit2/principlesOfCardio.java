@@ -57,7 +57,7 @@ public class principlesOfCardio extends AppCompatActivity {
             startActivity(intent);
         });
         nextIcon.setOnClickListener(v -> {
-            Intent intent =  new Intent(principlesOfCardio.this, principlesOfCardio.class);
+            Intent intent =  new Intent(principlesOfCardio.this, muscleFiberTypesActivity.class);
             startActivity(intent);
         });
 
