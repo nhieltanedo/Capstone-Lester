@@ -61,7 +61,7 @@ public class safetyConcerns extends AppCompatActivity {
         backIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent =  new Intent(safetyConcerns.this, lessonContents.class);
+                Intent intent =  new Intent(safetyConcerns.this, muscoSkeletal.class);
                 startActivity(intent);
             }
         });

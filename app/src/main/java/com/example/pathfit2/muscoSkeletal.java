@@ -61,14 +61,14 @@ public class muscoSkeletal extends AppCompatActivity {
         backIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent =  new Intent(muscoSkeletal.this, lessonContents.class);
+                Intent intent =  new Intent(muscoSkeletal.this, muscleFiberTypesActivity.class);
                 startActivity(intent);
             }
         });
         nextIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent =  new Intent(muscoSkeletal.this, healthRelatedLesson.class);
+                Intent intent =  new Intent(muscoSkeletal.this, safetyConcerns.class);
                 startActivity(intent);
             }
         });
