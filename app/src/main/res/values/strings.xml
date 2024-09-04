@@ -497,38 +497,38 @@ Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that 
         9. Maintain a Healthy Weight: Maintain a healthy body weight to reduce the strain on your muscles and joints and lower your risk of musculoskeletal conditions such as osteoarthritis. \n
         10. Seek Professional Guidance: Consult with a healthcare professional, such as a physical therapist or orthopedic specialist, for personalized guidance on preventing injuries and managing musculoskeletal conditions.
     </string>
-    <string name = "lesson7_whatAreSafetyConcerns">What are safety concerns</string>
-    <string name = "lesson7_whatAreSafetyConcernsTopic">Safety concerns refer to potential risks or hazards that could arise in various situations, environments, or activities. These concerns are related to the well-being and physical safety of individuals involved.</string>
-    <string name = "lesson7_whyAreSafetyConcernsImportant">Why are safety concerns important?</string>
-    <string name = "lesson7_whyAreSafetyConcernsImportantTopic">Safety concerns are important to prevent injuries, and ensure individuals can participate in activities safely. By addressing safety concerns, we can minimize the risk of accidents, protect against potential harm, and create environments where individuals can enjoy the benefits of physical activity without fear of injury or harm.</string>
-    <string name = "lesson7_safetyConcernsInExercising">Safety Concerns in Exercising</string>
-    <string name = "lesson7_safetyConcernsInExercisingTopic">
+    <string name="lesson7_whatAreSafetyConcerns">What are safety concerns</string>
+    <string name="lesson7_whatAreSafetyConcernsTopic">Safety concerns refer to potential risks or hazards that could arise in various situations, environments, or activities. These concerns are related to the well-being and physical safety of individuals involved.</string>
+    <string name="lesson7_whyAreSafetyConcernsImportant">Why are safety concerns important?</string>
+    <string name="lesson7_whyAreSafetyConcernsImportantTopic">Safety concerns are important to prevent injuries, and ensure individuals can participate in activities safely. By addressing safety concerns, we can minimize the risk of accidents, protect against potential harm, and create environments where individuals can enjoy the benefits of physical activity without fear of injury or harm.</string>
+    <string name="lesson7_safetyConcernsInExercising">Safety Concerns in Exercising</string>
+    <string name="lesson7_safetyConcernsInExercisingTopic">
         1. Overexertion \n
         2. Inadequate Warm-up \n
         3. Improper Equipment Use \n
         4. Ignoring Pain or Discomfort \n
         5. Lack of Rest and Recovery \n
     </string>
-    <string name = "lesson7_Overexertion">Overexertion</string>
-    <string name = "lesson7_OverexertionTopic">Pushing yourself too hard or exercising beyond your limits can lead to fatigue, dehydration, and even serious injuries like muscle strains or heat exhaustion.</string>
-    <string name = "lesson7_someCausesOfOverexertion">
+    <string name="lesson7_Overexertion">Overexertion</string>
+    <string name="lesson7_OverexertionTopic">Pushing yourself too hard or exercising beyond your limits can lead to fatigue, dehydration, and even serious injuries like muscle strains or heat exhaustion.</string>
+    <string name="lesson7_someCausesOfOverexertion">
         Some causes of Overexertion
     </string>
-    <string name = "lesson7_someCausesOfOverexertionTopic">
+    <string name="lesson7_someCausesOfOverexertionTopic">
         Repetitive movements - When you repeatedly move a joint or muscle over a long period of time, it can lead to overexertion. The repetitive movements can put strain on your body, leading to pain or discomfort. \n
         Improper Technique - Overexertion may stem from doing an activity or task incorrectly. This can place stress on your muscles, bones, joints, and connective tissues. \n
         Prolonged Activity - If you continuously do an activity without regular breaks, you’ll eventually become fatigued. The excess physical effort can be hard on your body. \n
     </string>
-    <string name = "lesson7_inadequateWarmUp">Inadequate Warm-up</string>
-    <string name = "lesson7_inadequateWarmUpTopic">Not warming up properly before exercise increases the risk of muscle pulls, strains, and other injuries. Without a proper warm-up, muscles may be tight and less prepared for the demands of exercise.</string>
-    <string name = "lesson7_ImproperEquipmentUse">Improper Equipment Use</string>
-    <string name = "lesson7_ImproperEquipmentUseTopic">Using exercise equipment incorrectly or using equipment that is not properly maintained can lead to accidents and injuries. This includes things like using weights that are too heavy, using machines with improper settings, or wearing improper footwear.</string>
-    <string name = "lesson7_IgnoringPainorDiscomfort">Ignoring Pain or Discomfort</string>
-    <string name = "lesson7_IgnoringPainorDiscomfortTopic">Pain during exercise can be a sign of an underlying issue or injury. Ignoring pain or discomfort and continuing to exercise can worsen the injury or lead to further complications.</string>
-    <string name = "lesson7_LackofRestandRecovery">Lack of Rest and Recovery</string>
-    <string name = "lesson7_LackofRestandRecoveryTopic">Failing to incorporate rest days into your exercise routine can lead to overtraining, fatigue, and increased risk of injury. Rest and recovery are essential for allowing muscles to repair and grow stronger after exercise.</string>
-    <string name = "lesson7_SafetyConcernTipsforExercising">Safety Concern Tips for Exercising</string>
-    <string name = "lesson7_SafetyConcernTipsforExercisingTopic">
+    <string name="lesson7_inadequateWarmUp">Inadequate Warm-up</string>
+    <string name="lesson7_inadequateWarmUpTopic">Not warming up properly before exercise increases the risk of muscle pulls, strains, and other injuries. Without a proper warm-up, muscles may be tight and less prepared for the demands of exercise.</string>
+    <string name="lesson7_ImproperEquipmentUse">Improper Equipment Use</string>
+    <string name="lesson7_ImproperEquipmentUseTopic">Using exercise equipment incorrectly or using equipment that is not properly maintained can lead to accidents and injuries. This includes things like using weights that are too heavy, using machines with improper settings, or wearing improper footwear.</string>
+    <string name="lesson7_IgnoringPainorDiscomfort">Ignoring Pain or Discomfort</string>
+    <string name="lesson7_IgnoringPainorDiscomfortTopic">Pain during exercise can be a sign of an underlying issue or injury. Ignoring pain or discomfort and continuing to exercise can worsen the injury or lead to further complications.</string>
+    <string name="lesson7_LackofRestandRecovery">Lack of Rest and Recovery</string>
+    <string name="lesson7_LackofRestandRecoveryTopic">Failing to incorporate rest days into your exercise routine can lead to overtraining, fatigue, and increased risk of injury. Rest and recovery are essential for allowing muscles to repair and grow stronger after exercise.</string>
+    <string name="lesson7_SafetyConcernTipsforExercising">Safety Concern Tips for Exercising</string>
+    <string name="lesson7_SafetyConcernTipsforExercisingTopic">
         1. Warm up properly before starting your workout. \n
         2. Wear appropriate footwear for your chosen activity. \n
         3. Stay hydrated by drinking water before, during, and after exercise. \n
@@ -539,8 +539,8 @@ Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that 
         8. Be mindful of weather conditions when exercising outdoors. \n
         9. Cool down after your workout to gradually lower your heart rate. \n
     </string>
-    <string name = "lesson7_SafetyConcernsinWeightLifting">Safety Concerns in Weight Lifting</string>
-    <string name = "lesson7_SafetyConcernsinWeightLiftingTopic">
+    <string name="lesson7_SafetyConcernsinWeightLifting">Safety Concerns in Weight Lifting</string>
+    <string name="lesson7_SafetyConcernsinWeightLiftingTopic">
         Safety Concerns \n
         1. Incorrect Lifting Technique. \n
         2. Overloading. \n
@@ -548,18 +548,18 @@ Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that 
         4. Failure to warm-up. \n
         5. Neglecting Recovery. \n
     </string>
-    <string name = "lesson7_IncorrectLiftingTechnique">Incorrect Lifting Technique</string>
-    <string name = "lesson7_IncorrectLiftingTechniqueTopic">Using improper form during weightlifting exercises can put unnecessary strain on muscles and joints, increasing the risk of injuries such as strains, sprains, and muscle tears.</string>
-    <string name = "lesson7_Overloading">OverLoading</string>
-    <string name = "lesson7_OverloadingTopic">Lifting weights that are too heavy or attempting to lift beyond your current strength level can lead to serious injuries, including muscle strains, joint injuries, and even fractures.</string>
-    <string name = "lesson7_lackOfSpotter">Lack of Spotter</string>
-    <string name = "lesson7_lackOfSpotterTopic">Attempting heavy lifts without a spotter can be dangerous, especially for exercises like bench press or squats. Without a spotter, theres a risk of dropping the weight and causing injury to yourself.</string>
-    <string name = "lesson7_FailuretoWarmup">Failure to Warm-up</string>
-    <string name = "lesson7_FailuretoWarmupTopic">Skipping a proper warm-up before weightlifting can increase the likelihood of muscle strains and other injuries. Adequate warm-up prepares the muscles for the demands of lifting and improves flexibility.</string>
-    <string name = "lesson7_NeglectingRecovery">Neglecting Recovery</string>
-    <string name = "lesson7_NeglectingRecoveryTopic">Failing to allow sufficient time for recovery between weightlifting sessions can lead to overtraining, fatigue, and increased risk of injury. Proper rest and recovery are essential for muscle repair and growth.</string>
-    <string name = "lesson7_SafetyConcernTipsforWeightLifting">Safety Concern Tips for Weight Lifting</string>
-    <string name = "lesson7_SafetyConcernTipsforWeightLiftingTopic">
+    <string name="lesson7_IncorrectLiftingTechnique">Incorrect Lifting Technique</string>
+    <string name="lesson7_IncorrectLiftingTechniqueTopic">Using improper form during weightlifting exercises can put unnecessary strain on muscles and joints, increasing the risk of injuries such as strains, sprains, and muscle tears.</string>
+    <string name="lesson7_Overloading">OverLoading</string>
+    <string name="lesson7_OverloadingTopic">Lifting weights that are too heavy or attempting to lift beyond your current strength level can lead to serious injuries, including muscle strains, joint injuries, and even fractures.</string>
+    <string name="lesson7_lackOfSpotter">Lack of Spotter</string>
+    <string name="lesson7_lackOfSpotterTopic">Attempting heavy lifts without a spotter can be dangerous, especially for exercises like bench press or squats. Without a spotter, theres a risk of dropping the weight and causing injury to yourself.</string>
+    <string name="lesson7_FailuretoWarmup">Failure to Warm-up</string>
+    <string name="lesson7_FailuretoWarmupTopic">Skipping a proper warm-up before weightlifting can increase the likelihood of muscle strains and other injuries. Adequate warm-up prepares the muscles for the demands of lifting and improves flexibility.</string>
+    <string name="lesson7_NeglectingRecovery">Neglecting Recovery</string>
+    <string name="lesson7_NeglectingRecoveryTopic">Failing to allow sufficient time for recovery between weightlifting sessions can lead to overtraining, fatigue, and increased risk of injury. Proper rest and recovery are essential for muscle repair and growth.</string>
+    <string name="lesson7_SafetyConcernTipsforWeightLifting">Safety Concern Tips for Weight Lifting</string>
+    <string name="lesson7_SafetyConcernTipsforWeightLiftingTopic">
         Start with lighter weights and gradually increase the load as you become stronger and more experienced. \n
         Always use proper form and technique for each exercise to prevent injuries. \n
         Focus on controlled movements rather than rushing through repetitions. \n
@@ -571,9 +571,6 @@ Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that 
         Cool down properly after your weightlifting session with light cardio and stretching to help prevent muscle soreness and stiffness. \n
 
     </string>
-
-
-
 
 
     "
