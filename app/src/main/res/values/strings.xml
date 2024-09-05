@@ -233,65 +233,66 @@
     It ensures that the body continues to adapt and improve as fitness levels increase.</string>
 
 
-    <string name="lesson4_topic3">
-    Deltoids
-    Located in the shoulders, the deltoid muscles consist of three heads (anterior, lateral, and posterior) and are responsible for shoulder abduction, flexion, and extension./n
-    Pectoralis Major
-    Found in the chest, the pectoralis major muscles are responsible for shoulder flexion, adduction, and internal rotation, commonly targeted during chest exercises like bench presses and push-ups./n
-    Trapezius
-    The trapezius muscles are located in the upper back and neck and are responsible for shoulder elevation, retraction, and rotation, as well as neck extension./n
-    Latissimus Dorsi
-    Situated in the mid-back, the latissimus dorsi muscles, or lats, are responsible for shoulder adduction, extension, and internal rotation, commonly targeted during pull-up and rowing exercises./n
-    Rhomboids
-    Found between the shoulder blades, the rhomboid muscles are responsible for scapular retraction and elevation, aiding in posture and shoulder stability./n
-    Rotator Cuff Muscles
-    Comprising the supraspinatus, infraspinatus, teres minor, and subscapularis, the rotator cuff muscles are responsible for stabilizing the shoulder joint and facilitating arm rotation and abduction./n
-    Biceps Branchii
-    Located in the front of the upper arm, the biceps brachii muscles are responsible for elbow flexion and forearm supination, commonly targeted during bicep curls and chin-ups./n
-    Triceps Branchii
-    Situated in the back of the upper arm, the triceps brachii muscles are responsible for elbow extension and forearm pronation, commonly targeted during triceps dips and push-down exercises./n
-    Serratus Anterrior
-    Located on the side of the rib cage, the serratus anterior muscles are responsible for scapular protraction and stabilization, aiding in arm movement and shoulder health./n
-    Sternocleidomastoid
-    Situated in the neck, the sternocleidomastoid muscles are responsible for neck flexion, lateral flexion, and rotation, commonly targeted during exercises involving head movements and neck stabilization./n
-    Quadriceps
-    The quadriceps, or quads, are a group of four muscles on the front of the thigh. They are some of the largest and strongest muscles in the body. The quad muscles allow a person to stand, walk, run, squat, and jump./n
-    The term quadriceps is Latin for “four headed.” This is because people separate this muscle group into four distinct portions that all work together to help extend the leg. The four muscles that comprise the quadriceps includeTrusted Source.
-    Gluteal Muscles
-    THE GLUTEAL MUSCLES ARE A GROUP OF MUSCLES THAT MAKE UP THE BUTTOCK AREA; THE MUSCLE GROUP CONSISTS OF THE GLUTEUS MAXIMUS, GLUTEUS MEDIUS, AND GLUTEUS MINIMUS./n
-    Hamstring
-    A HAMSTRING IS A LENGTH OF TISSUE OR TENDON BEHIND YOUR KNEE WHICH JOINS THE MUSCLES OF YOUR THIGH TO THE BONES OF YOUR LOWER LEG./n
-    Calf
-    THE CALF REFERS TO THE MUSCULAR AREA LOCATED AT THE BACK OF THE LOWER LEG, BETWEEN THE KNEE AND THE ANKLE. IT IS PRIMARILY FORMED BY THE GASTROCNEMIUS AND SOLEUS MUSCLES, WHICH WORK TOGETHER TO ALLOW FOR PLANTAR FLEXION OF THE FOOT (POINTING THE TOES DOWNWARDS) AND ASSIST IN WALKING, RUNNING, AND JUMPING MOVEMENTS. THE CALF MUSCLES ARE AMONG THE STRONGEST IN THE BODY AND PLAY A CRUCIAL ROLE IN PROVIDING POWER AND PROPULSION DURING LOCOMOTION. THEY ALSO CONTRIBUTE TO MAINTAINING PROPER BALANCE AND STABILITY./n
-
-
+    <string name="lesson4_Training">TRAINING</string>
+    <string name="lesson4_TrainingTopic">Refers to the act, process, or method of teaching a person  or  animal  a  particular  skill,  knowledge,  or type of behavior.</string>
+    <string name="lesson4_Specificity">SPECIFICITY</string>
+    <string name="lesson4_SpecificityTopic">It  is  a  fitness  principle  that  describes  how  fitness improvements   or   adaptations   resulting   from exercise stress are specific to the type of training performed.
     </string>
+    <string name="lesson4_SportSpecificTraining">Sport-Specific Training</string>
+    <string name="lesson4_SportSpecificTrainingTopic">Athletes engage in training activities directly related to their sport.</string>
+    <string name="lesson4_HighIntensityIntervalTraining">High-Intensity Interval Training (HIIT).</string>
+    <string name="lesson4_HighIntensityIntervalTrainingTopic">HIIT	sessions	involve	short,	intense	bursts	of	exercise followed by brief rest periods. /n
+        Sprint /n Burpees /n Jumping jacks</string>
+    <string name="lesson4_Overload">OVERLOAD</string>
+    <string name="lesson4_OverloadTopic">-The overload principle states that adaptation to exercise stress  occurs  when  the  workload  is  progressively increased during training.
+    /n -To improve cardiorespiratory fitness, gradually increase exercise intensity, duration, or frequency over time. /n
+        Load /n Repetition /n Sets  /n Duration  /n Freuency /n/n Rest Periods </string>
+    <string name="lesson4_Adaptation">ADAPTATION</string>
+    <string name="lesson4_AdaptationTopic">refers to the body’s	response to	exercise stress	over time.
+    It	involves changes in	physiological systems to better cope with the demands of physical activity.</string>
+    <string name="lesson4_Acute">ACUTE</string>
+    <string name="lesson4_AcuteTopic">Increased heart rate /n Dilation of blood vessels /n Increased respiratory rate /n Muscle recruitment</string>
+    <string name="lesson4_Chronic">CHRONIC</string>
+    <string name="lesson4_ChronicTopic">Cardiac hypertrophy /n Increased capillarization /n Mitochondrial density /n Improved VO2 max /n Increased stroke volume</string>
+    <string name="lesson4_Progression">PROGRESSION</string>
+    <string name="lesson4_ProgressionTopic"> -refers to	the	gradual	increase in exercise intensity, duration, or frequency over time.
+    /n -It ensures that the body continues to adapt and improve as fitness levels increase.</string>
+    <string name="lesson4_Progression2">PROGRESSION</string>
+    <string name="lesson4_Progression2Topic">-How often	you	engage	in exercise sessions per week. /n
+        -The	level	of	effort	or	challenge during each exercise session. /n
+        -The	length	of	each	exercise session. /n
+        -The	specific	mode	or	type	of exercise /n
+        -Gradually  increase  the  number  of exercise sessions per week./n
+        -Progressively challenge the body by increasing   resistance,   speed,   or workload. /n
+        -Extend   the   duration   of   each exercise session as fitness improves. /n
+        -Vary  the  types  of  exercises  to prevent   monotony   and   target different muscle groups. </string>
+
     <string name="lesson5_muscleFiber">What is Muscle fiber</string>
-    <string name="lesson5_muscleFiberTopic">Muscle fibers are large multinucleated cells whose most obvious histological feature is cross-striations. The cytoplasm contains many myofibrils that include tiny cylinders consisting of bundles of myofilaments</string>
-    <string name="lesson5_humanSkeletal">Human skeletal muscle </string>
+    <string name="lesson5_muscleFiberTopic">Muscle fibers are large multinucleated cells whose most obvious histological feature is cross-striations. The cytoplasm contains many myofibrils that include tiny cylinders consisting of bundles of myofilaments</string>
+    <string name="lesson5_humanSkeletal">Human skeletal muscle </string>
     <string name="lesson5_humanSkeletalTopic">is composed of a heterogenous collection of muscle fiber types. This range of muscle fiber types allows for the wide variety of capabilities that human muscles display.</string>
     <string name="lesson5_twoFormFiber">Two primary forms of fibers</string>
     <string name="lesson5_twoFormFiberTopic">Collagen Fibers and Elastic Fibers</string>
     <string name="lesson5_collagenFiber">Collagen Fibers</string>
-    <string name="lesson5_collagenFiberTopic">is a type of protein fiber found abundantly throughout our body</string>
+    <string name="lesson5_collagenFiberTopic">is a type of protein fiber found abundantly throughout our body</string>
     <string name="lesson5_elasticFiber">Elastic Fibers</string>
-    <string name="lesson5_elasticFiberTopic">Elastic fibers are essential extracellular matrix macromolecules comprising an elastin core surrounded by a mantle of fibrillin-rich microfibrils.</string>
+    <string name="lesson5_elasticFiberTopic">Elastic fibers are essential extracellular matrix macromolecules comprising an elastin core surrounded by a mantle of fibrillin-rich microfibrils.</string>
     <string name="lesson5_threeTypesMuscleFiber">The three types of muscle fibers</string>
-    <string name="lesson5_threeTypesMuscleFiberTopic">Slow Oxidative (SO), Fast Oxidative (FO) and  Fast Glycolytic (FG)</string>
+    <string name="lesson5_threeTypesMuscleFiberTopic">Slow Oxidative (SO), Fast Oxidative (FO) and  Fast Glycolytic (FG)</string>
     <string name="lesson5_slowOxidative">Slow oxidative (SO)</string>
-    <string name="lesson5_slowOxidativeTopic"> Type 1: Slow oxidative (SO) fibers contract relatively slowly and use aerobic respiration (oxygen and glucose) to produce ATP(adenosine triphosphate). They produce low power contractions over long periods and are slow to fatigue</string>
-    <string name="lesson5_fastOxidative">Fast oxidative  (FO)</string>
+    <string name="lesson5_slowOxidativeTopic">Type 1: Slow oxidative (SO) fibers contract relatively slowly and use aerobic respiration (oxygen and glucose) to produce ATP(adenosine triphosphate). They produce low power contractions over long periods and are slow to fatigue</string>
+    <string name="lesson5_fastOxidative">Fast oxidative (FO)</string>
     <string name="lesson5_fastOxidativeTopic">Type 2 A: Fast oxidative (FO) fibers have fast contractions and primarily use aerobic respiration, but because they may switch to anaerobic respiration (glycolysis), can fatigue more quickly than SO fibers.</string>
-    <string name="lesson5_fastGlycolytic">Fast glycolytic (FG)</string>
+    <string name="lesson5_fastGlycolytic">Fast glycolytic(FG)</string>
     <string name="lesson5_fastGlycolyticTopic">Type 2 B: Fast glycolytic (FG) fibers have fast contractions and primarily use anaerobic glycolysis. The FG fibers fatigue more quickly than the others</string>
     <string name="lesson5_typeIFiber">Type I fibers (SO)</string>
-    <string name="lesson5_typeIFiberTopic">Type I fibers (SO). These fibers have a rich capillary supply, numerous mitochondria and aerobic respiratory enzymes, and a high concentration  of  myoglobin. 
-Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that improves the delivery of oxygen to the slow-twitch fibers. Because of their high myoglobin content, slow-twitch fibers are also called red fibers.</string>
+    <string name="lesson5_typeIFiberTopic">Type I fibers (SO). These fibers have a rich capillary supply,numerous mitochondria and aerobic respiratory enzymes, and a high concentration of myoglobin.
+Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that improves the delivery of oxygen to the slow-twitch fibers. Because of their high myoglobin content, slow-twitch fibers are also called red fibers.</string>
     <string name="lesson5_type2Afiber">Type 2A (FO) fibers</string>
     <string name="lesson5_type2AfiberTopic">are sometimes called intermediate fibers because they possess characteristics that are intermediate between fast fibers and slow fibers. They produce ATP relatively quickly, more quickly than SO fibers, and thus can produce relatively high amounts of tension.</string>
     <string name="lesson5_type2BFibers">Type 2B (FG) fibers</string>
     <string name="lesson5_type2BFibersTopic">primarily use anaerobic glycolysis as their ATP source. They have a large diameter and possess high amounts of glycogen, which is used in glycolysis to generate ATP quickly to produce high levels of tension. \n
-Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that improves the delivery of oxygen to the slow-twitch fibers. Because of their high myoglobin content, slow-twitch fibers are also called red fibers.</string>
+Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that improves the delivery of oxygen to the slow-twitch fibers. Because of their high myoglobin content, slow-twitch fibers are also called red fibers.</string>
     <string name="lesson5_speedOfConstraction">Speed of Contraction</string>
     <string name="lesson5_speedOfConstractionTopic">The speed of contraction is dependent on how quickly myosin’s ATPase hydrolyzes ATP to produce cross-bridge action.</string>
     <string name="lesson5_numberOfSlowFastTwitchFiber">Numbers of Slow and Fast-Twitch Fibers</string>
@@ -302,7 +303,7 @@ Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that 
         In addition, the loss of alpha motoneurons with age results in some reinnervation of “abandoned” muscle fibers by adjacent motor units that may be of a different type. This may facilitate fiber type conversion, as the reinnervated muscle fibers take on the properties of the new “parent” motor unit
     </string>
     <string name="lesson5_muscleMetabolism">Muscle Metabolism</string>
-    <string name="lesson5_muscleMetabolismTopic">ATP provides the energy for muscle contraction. The three mechanisms for ATP regeneration are creatine phosphate, anaerobic glycolysis, and aerobic metabolism. \n
+    <string name="lesson5_muscleMetabolismTopic">ATP provides the energy for muscle contraction. The three mechanisms for ATP regeneration are creatine phosphate, anaerobic glycolysis, and aerobic metabolism. \n
     Creatine phosphate provides about the first 15 seconds of ATP at the beginning of muscle contraction. \n
         Aerobic metabolism utilizes oxygen to produce much more ATP, allowing a muscle to work for longer periods \n
         Muscle fatigue, which has many contributing factors, occurs when muscle can no longer contract. \n
@@ -311,7 +312,7 @@ Myoglobin is a red pigment, similar to the hemoglobin in red blood cells, that 
     <string name="lesson5_physio">Physiotherapy</string>
     <string name="lesson5_physioTopic">Physical therapy interventions can affect muscle fiber types leading to improvements in muscle performance. \n
     Increase the patients resistance to fatigue. Training that places a high metabolic demand on the muscle (endurance training) will increase the oxidative capacity of all muscle fiber types, mainly through increases in the amount of mitochondria, aerobic/oxidative penzymes, and capillarization of the trained muscle. \n
-        Increase the patients force production. High-intensity resistance training (eg, high-load–low-repetition training) results in changes in fiber type similar to those seen with endurance training, although muscle hypertrophy also plays an essential role in producing strength gains. Initial increases in force production with high-intensity resistance training programs are largely mediated by neural factors, rather than visible hypertrophy of muscle fibers, in adults with no pathology or impairments.
+        Increase the patients force production. High-intensity resistance training (eg, high-load–low-repetition training) results in changes in fiber type similar to those seen with endurance training, although muscle hypertrophy also plays an essential role in producing strength gains. Initial increases in force production with high-intensity resistance training programs are largely mediated by neural factors, rather than visible hypertrophy of muscle fibers, in adults with no pathology or impairments.
     </string>
 
     <string name="lesson6_musculoskeletalSystem">Musculoskeletal System</string>
