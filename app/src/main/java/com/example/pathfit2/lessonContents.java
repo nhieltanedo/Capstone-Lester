@@ -1,14 +1,8 @@
 package com.example.pathfit2;
 
 import android.content.Intent;
-import android.hardware.camera2.params.BlackLevelPattern;
 import android.os.Bundle;
-import android.transition.AutoTransition;
-import android.transition.TransitionManager;
-import android.view.View;
 import android.widget.ImageButton;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -19,7 +13,8 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class lessonContents extends AppCompatActivity {
-    CardView fitnessExercise, healthRelated, typesWeightTraining, principleAndMethodsOfCardio, muscleFiberTypes, muscoSkeletalSystem, safetyConcerns;
+    CardView fitnessExercise, healthRelated, typesWeightTraining, principleAndMethodsOfCardio, muscleFiberTypes, muscoSkeletalSystem, safetyConcerns,
+            stretchingAndFlexibility, tabataWorkOut, sevenMinuteWorkOut, benefitsOfCircuitTraining;
     Toolbar toolbar;
     ImageButton backIcon;
 
@@ -55,6 +50,10 @@ public class lessonContents extends AppCompatActivity {
         muscleFiberTypes = findViewById(R.id.lesson5);
         muscoSkeletalSystem = findViewById(R.id.lesson6);
         safetyConcerns = findViewById(R.id.lesson7);
+        stretchingAndFlexibility = findViewById(R.id.lesson8);
+        tabataWorkOut = findViewById(R.id.lesson9);
+        sevenMinuteWorkOut = findViewById(R.id.lesson10);
+        benefitsOfCircuitTraining = findViewById(R.id.lesson11);
     }
 
     public void onItemClickedAction(){
@@ -97,7 +96,25 @@ public class lessonContents extends AppCompatActivity {
         });
 
         safetyConcerns.setOnClickListener(v -> {
-            Intent intent =  new Intent(lessonContents.this, muscoSkeletal.class);
+            Intent intent =  new Intent(lessonContents.this, com.example.pathfit2.safetyConcerns.class);
+            startActivity(intent);
+        });
+
+        stretchingAndFlexibility.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, com.example.pathfit2.StretchingAndFlexibility.class);
+            startActivity(intent);
+        });
+
+        tabataWorkOut.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, com.example.pathfit2.TabataWorkOut.class);
+            startActivity(intent);
+        });
+        sevenMinuteWorkOut.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, SevenMinWorkout.class);
+            startActivity(intent);
+        });
+        benefitsOfCircuitTraining.setOnClickListener(v -> {
+            Intent intent =  new Intent(lessonContents.this, benefitsOfCircuitTraining.class);
             startActivity(intent);
         });
     }
