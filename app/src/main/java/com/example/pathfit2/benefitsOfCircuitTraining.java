@@ -81,22 +81,92 @@ public class benefitsOfCircuitTraining extends AppCompatActivity {
     private void dataInitialized() {
         cardItemList = new ArrayList<>();
         cardTitle = new String[]{
-                getString(R.string.lesson5_muscleFiber),
+                getString(R.string.lesson11_whatIsCircuitTraining),
+                getString(R.string.lesson11_StrengthCircuits),
+                getString(R.string.lesson11_SportSpecific),
+                getString(R.string.lesson11_CardioCircuits),
+                getString(R.string.lesson11_Totalexercise),
+                getString(R.string.lesson11_CompetitionCircuit),
+                getString(R.string.lesson11_timedCircuits),
+                getString(R.string.lesson11_RepetitionCircuits),
+                getString(R.string.lesson11_StageCircuits),
+                getString(R.string.lesson11_Benefitsofcircuittraining),
+                getString(R.string.lesson11_Improvesmuscularendurance),
+                getString(R.string.lesson11_Increasesstrengthandmusclegrowth),
+                getString(R.string.lesson11_Improveshearthealth),
+                getString(R.string.lesson11_Offersafullbodyworkout),
+                getString(R.string.lesson11_Istimeefficient),
+                getString(R.string.lesson11_Improvesexerciseadherence),
+                getString(R.string.lesson11_Maypromoteweightloss),
+                getString(R.string.lesson11_Mayimproveyourmood),
+
+
 
 
         };
         description = new String[]{
                 getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
 
 
         };
         topic = new String[]{
-                getString(R.string.lesson5_muscleFiberTopic),
+                getString(R.string.lesson11_whatIsCircuitTrainingTopic),
+                getString(R.string.lesson11_StrengthCircuitsTopic),
+                getString(R.string.lesson11_SportSpecificTopic),
+                getString(R.string.lesson11_CardioCircuitsTopic),
+                getString(R.string.lesson11_TotalexerciseTopic),
+                getString(R.string.lesson11_CompetitionCircuitTopic),
+                getString(R.string.lesson11_timedCircuitsTopic),
+                getString(R.string.lesson11_RepetitionCircuitsTopic),
+                getString(R.string.lesson11_StageCircuitsTopic),
+                getString(R.string.lesson11_BenefitsofcircuittrainingTopic),
+                getString(R.string.lesson11_ImprovesmuscularenduranceTopic),
+                getString(R.string.lesson11_IncreasesstrengthandmusclegrowthTopic),
+                getString(R.string.lesson11_ImproveshearthealthTopic),
+                getString(R.string.lesson11_OffersafullbodyworkoutTopic),
+                getString(R.string.lesson11_IstimeefficientTopic),
+                getString(R.string.lesson11_ImprovesexerciseadherenceTopic),
+                getString(R.string.lesson11_MaypromoteweightlossTopic),
+                getString(R.string.lesson11_MayimproveyourmoodTopic),
 
         };
 
         imageResource = new int[]{
                 //need palitan ng image na tugma sa lesson topic
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
                 R.drawable.ic_launcher_background,
 
 

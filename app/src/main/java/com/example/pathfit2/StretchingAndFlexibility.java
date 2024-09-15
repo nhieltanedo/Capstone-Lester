@@ -80,22 +80,76 @@ public class StretchingAndFlexibility extends AppCompatActivity {
     private void dataInitialized() {
         cardItemList = new ArrayList<>();
         cardTitle = new String[]{
-                getString(R.string.lesson5_muscleFiber),
+                getString(R.string.lesson8_WarmUp),
+                getString(R.string.lesson8_Jogging),
+                getString(R.string.lesson8_UpperBody),
+                getString(R.string.lesson8_UpperBody1),
+                getString(R.string.lesson8_ArmCircling),
+                getString(R.string.lesson8_UpperBackStretch),
+                getString(R.string.lesson8_AbdomenStretch),
+                getString(R.string.lesson8_SideStretch),
+                getString(R.string.lesson8_LowerBackStretch),
+                getString(R.string.lesson8_LowerBody),
+                getString(R.string.lesson8_LowerBody1),
+                getString(R.string.lesson8_LowerBody2),
+                getString(R.string.lesson8_LowerBody3),
+                getString(R.string.lesson8_Breathing),
+
 
 
         };
         description = new String[]{
                 getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+
 
 
         };
         topic = new String[]{
-                getString(R.string.lesson5_muscleFiberTopic),
+                getString(R.string.lesson8_WarmUpTopic),
+                getString(R.string.lesson8_JoggingTopic),
+                getString(R.string.lesson8_UpperBodyTopic),
+                getString(R.string.lesson8_UpperBody1Topic),
+                getString(R.string.lesson8_ArmCirclingTopic),
+                getString(R.string.lesson8_UpperBackStretchTopic),
+                getString(R.string.lesson8_AbdomenStretchTopic),
+                getString(R.string.lesson8_SideStretchTopic),
+                getString(R.string.lesson8_LowerBackStretchTopic),
+                getString(R.string.lesson8_LowerBodyTopic),
+                getString(R.string.lesson8_LowerBody1Topic),
+                getString(R.string.lesson8_LowerBody2Topic),
+                getString(R.string.lesson8_LowerBody3Topic),
+                getString(R.string.lesson8_BreathingTopic),
 
         };
 
         imageResource = new int[]{
                 //need palitan ng image na tugma sa lesson topic
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
                 R.drawable.ic_launcher_background,
 
 
