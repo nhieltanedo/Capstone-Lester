@@ -81,22 +81,76 @@ public class SevenMinWorkout extends AppCompatActivity {
     private void dataInitialized() {
         cardItemList = new ArrayList<>();
         cardTitle = new String[]{
-                getString(R.string.lesson5_muscleFiber),
+                getString(R.string.lesson10_TheSevenMinuteWorkout),
+                getString(R.string.lesson10_12Exercise),
+                getString(R.string.lesson10_JumpingJacks),
+                getString(R.string.lesson10_WallSit),
+                getString(R.string.lesson10_PushUps),
+                getString(R.string.lesson10_AbdominalCrunch),
+                getString(R.string.lesson10_StepUpontoChair),
+                getString(R.string.lesson10_Squat),
+                getString(R.string.lesson10_TricepDipsonChair),
+                getString(R.string.lesson10_Plank),
+                getString(R.string.lesson10_HighKneesRunninginPlace),
+                getString(R.string.lesson10_Lunge),
+                getString(R.string.lesson10_PushUpswithRotation),
+                getString(R.string.lesson10_SidePlank),
+
+
 
 
         };
         description = new String[]{
                 getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
+                getString(R.string.context),
 
 
         };
         topic = new String[]{
-                getString(R.string.lesson5_muscleFiberTopic),
+                getString(R.string.lesson10_TheSevenMinuteWorkoutTopic),
+                getString(R.string.lesson10_12ExerciseTopic),
+                getString(R.string.lesson10_JumpingJacksTopic),
+                getString(R.string.lesson10_WallSitTopic),
+                getString(R.string.lesson10_PushUpsTopic),
+                getString(R.string.lesson10_AbdominalCrunchTopic),
+                getString(R.string.lesson10_StepUpontoChairTopic),
+                getString(R.string.lesson10_SquatTopic),
+                getString(R.string.lesson10_TricepDipsonChairTopic),
+                getString(R.string.lesson10_PlankTopic),
+                getString(R.string.lesson10_HighKneesRunninginPlaceTopic),
+                getString(R.string.lesson10_LungeTopic),
+                getString(R.string.lesson10_PushUpswithRotationTopic),
+                getString(R.string.lesson10_SidePlankTopic),
 
         };
 
         imageResource = new int[]{
                 //need palitan ng image na tugma sa lesson topic
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background,
                 R.drawable.ic_launcher_background,
 
 

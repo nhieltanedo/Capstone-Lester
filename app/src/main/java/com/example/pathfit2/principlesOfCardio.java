@@ -69,13 +69,15 @@ public class principlesOfCardio extends AppCompatActivity {
         cardItemList = new ArrayList<>();
         cardTitle = new String[]{
                 //add yung title ng lesson 2
-                getString(R.string.lesson3_training),
-                getString(R.string.lesson3_specificity),
-                getString(R.string.lesson3_SportSpecificTraining),
-                getString(R.string.lesson3_highIntensity),
-                getString(R.string.lesson3_overload),
-                getString(R.string.lesson3_Adaptation),
-                getString(R.string.lesson3_Progression),
+                getString(R.string.lesson4_Training),
+                getString(R.string.lesson4_Specificity),
+                getString(R.string.lesson4_SportSpecificTraining),
+                getString(R.string.lesson4_HighIntensityIntervalTraining),
+                getString(R.string.lesson4_Overload),
+                getString(R.string.lesson4_Acute),
+                getString(R.string.lesson4_Chronic),
+                getString(R.string.lesson4_Progression),
+                getString(R.string.lesson4_Progression2),
 
         };
         description = new String[]{
@@ -86,22 +88,29 @@ public class principlesOfCardio extends AppCompatActivity {
                 getString(R.string.context),
                 getString(R.string.context),
                 getString(R.string.context),
-
+                getString(R.string.context),
+                getString(R.string.context),
 
         };
         topic = new String[]{
                 //add yung topic ng lesson 2 na nakapaloob sa title
-                getString(R.string.lesson3_trainingTopic),
-                getString(R.string.lesson3_specificityTopic),
-                getString(R.string.lesson3_SportSpecificTrainingTopic),
-                getString(R.string.lesson3_highIntensityTopic),
-                getString(R.string.lesson3_overloadTopic),
-                getString(R.string.lesson3_AdaptationTopic),
-                getString(R.string.lesson3_ProgressionTopic),
+                getString(R.string.lesson4_TrainingTopic),
+                getString(R.string.lesson4_SpecificityTopic),
+                getString(R.string.lesson4_SportSpecificTrainingTopic),
+                getString(R.string.lesson4_HighIntensityIntervalTrainingTopic),
+                getString(R.string.lesson4_OverloadTopic),
+                getString(R.string.lesson4_AcuteTopic),
+                getString(R.string.lesson4_ChronicTopic),
+                getString(R.string.lesson4_ProgressionTopic),
+                getString(R.string.lesson4_Progression2Topic),
+
+
 
 
 
         };
+
+
 
         imageResource = new int[]{
                 //need palitan ng image na tugma sa lesson topic
@@ -112,7 +121,8 @@ public class principlesOfCardio extends AppCompatActivity {
                 R.drawable.ic_launcher_background,
                 R.drawable.ic_launcher_background,
                 R.drawable.ic_launcher_background,
-
+                R.drawable.ic_launcher_background,
+                R.drawable.ic_launcher_background
 
         };
 
