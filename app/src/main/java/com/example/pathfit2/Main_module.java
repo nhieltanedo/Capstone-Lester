@@ -20,6 +20,9 @@ public class Main_module extends AppCompatActivity {
         setContentView(R.layout.activity_main_module);
         initViews();
 
+        Intent musicServiceIntent = new Intent(this, musicPlayer.class);
+        startService(musicServiceIntent);
+
         //btnLesson if the button is clicked munta ya keng lessonContens.java
         btnLesson.setOnClickListener(v -> {
             Intent intent = new Intent(Main_module.this, lessonContents.class);
